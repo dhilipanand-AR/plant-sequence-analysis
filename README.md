@@ -29,6 +29,15 @@ The BLASTP analysis showed highly significant sequence similarity between the *O
 
 The *Zea mays* match showed 100% query coverage and 99.43% sequence identity with an E-value of 0.0, indicating a highly similar protein sequence.
 
+## 💡 Skills Demonstrated
+
+- FASTA sequence handling
+- NCBI database usage
+- BLASTP sequence analysis
+- Sequence similarity interpretation
+- Basic bioinformatics research
+- Scientific data documentation
+- 
 ## 🛠️ Tools & Workflow
 
 **Tools Used:**
