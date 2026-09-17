@@ -1,0 +1,3672 @@
+RID: APW3RPKJ014	
+Job Title:ref|YP_654199.1|				
+Program: BLASTP 
+Database: ClusteredNR clustered nr
+Query #1:  Query ID: ref|YP_654199.1 Length: 353
+
+Clusters producing significant alignments:
+                                                                  #          #          Scientific      Cluster                    Max    Total Query   E   Per.   Acc.                        
+Cluster Rep.                                                      Mem.       Taxa       Name            Ancestor        Taxid      Score  Score cover Value Ident  Len        Accession        
+hypothetical protein [Stylosanthes scabra]                        1          1          Stylosanthes... shrubby stylo   79078      724    724   100%  0.0   100.00 867        MED6121190.1     
+hypothetical protein RIF29_48433 [Crotalaria pallida]             1          1          Crotalaria p... smooth rattl... 3830       718    718   100%  0.0   98.87  780        KAK7231220.1     
+hypothetical protein IEQ34_026249 [Dendrobium chrysotoxum]        1          1          Dendrobium c... monocots        161865     717    717   98%   0.0   98.85  1317       KAH0437198.1     
+photosystem II protein D1 [Zea mays]                              215        189        Eukaryota       eukaryotes      2759       711    711   100%  0.0   99.43  353        NP_043004.1      
+hypothetical protein LXL04_040228 [Taraxacum kok-saghyz]          2          1          Taraxacum ko... eudicots        333970     711    711   100%  0.0   97.45  829        KAL4553841.1     
+hypothetical protein LXL04_040113 [Taraxacum kok-saghyz]          2          1          Taraxacum ko... eudicots        333970     708    708   100%  0.0   97.45  649        KAL4553895.1     
+PSII 32 kDa protein [Cocos nucifera]                              2          2          commelinids     monocots        4734       707    707   100%  0.0   99.15  623        YP_009315935.1   
+hypothetical protein ACJX0J_002495 [Zea mays]                     2          1          Zea mays        maize           4577       707    707   98%   0.0   99.71  768        KAL5646259.1     
+hypothetical protein ACJX0J_002089 [Zea mays]                     71         1          Zea mays        maize           4577       706    706   98%   0.0   99.71  801        KAL5646015.1     
+PSII 32 kDa protein [Vitis vinifera]                              1          1          Vitis vinifera  wine grape      29760      706    706   100%  0.0   98.30  615        YP_002608363.1   
+hypothetical protein ACJX0J_003739 [Zea mays]                     1          1          Zea mays        maize           4577       706    706   98%   0.0   99.71  792        KAL5646228.1     
+PsbA [Chimaphila japonica]                                        186        167        Eukaryota       eukaryotes      2759       704    704   100%  0.0   98.30  353        AVY52571.1       
+hypothetical protein ACJX0J_001578, partial [Zea mays]            1          1          Zea mays        maize           4577       703    703   98%   0.0   99.71  673        KAL5642493.1     
+hypothetical protein VitviT2T_019323 [Vitis vinifera]             2          1          Vitis vinifera  wine grape      29760      702    702   100%  0.0   98.30  465        WKA01015.1       
+hypothetical protein ACJX0J_003446 [Zea mays]                     1          1          Zea mays        maize           4577       702    702   98%   0.0   99.71  768        KAL5645948.1     
+hypothetical protein ACJX0J_004810, partial [Zea mays]            5          1          Zea mays        maize           4577       702    702   98%   0.0   99.71  393        KAL5644144.1     
+photosystem II protein D1 [Adiantum capillus-veneris]             139        133        Eukaryota       eukaryotes      2759       699    699   100%  0.0   96.60  353        NP_848104.1      
+hypothetical protein TETHAR_038142 [Tetrastigma harmandii]        1          1          Tetrastigma ... eudicots        1932026    696    696   98%   0.0   97.97  769        KAN4938915.1     
+hypothetical protein E3N88_14285 [Mikania micrantha]              1          1          Mikania micr... eudicots        192012     695    695   99%   0.0   97.42  628        KAD5802925.1     
+photosystem II protein D1 [Chaetosphaeridium globosum]            776        708        Eukaryota       eukaryotes      2759       695    695   100%  0.0   95.47  353        NP_683826.1      
+photosystem II protein D1 [Amborella trichopoda]                  1998       1813       Eukaryota       eukaryotes      2759       694    694   99%   0.0   97.43  350        NP_904079.2      
+hypothetical protein LXL04_023270 [Taraxacum kok-saghyz]          1          1          Taraxacum ko... eudicots        333970     694    694   99%   0.0   97.70  412        KAL4567678.1     
+hypothetical chloroplast RF21 [Ipomoea trifida]                   1          1          Ipomoea trifida eudicots        35884      692    692   96%   0.0   99.12  698        GLL25468.1       
+hypothetical protein ACJX0J_002761, partial [Zea mays]            1          1          Zea mays        maize           4577       691    691   97%   0.0   99.71  565        KAL5643177.1     
+photosystem II Q(b) protein D1 [Cymbidium faberi]                 1          1          Cymbidium fa... monocots        112604     691    691   100%  0.0   88.13  396        YP_009163382.1   
+D1 reaction center protein photosystem II [Trebouxia lynnae]      162        138        cellular org... cellular org... 131567     690    690   100%  0.0   94.05  353        YP_009725414.1   
+photosystem II protein D1-like [Vitis vinifera]                   1          1          Vitis vinifera  wine grape      29760      688    688   100%  0.0   96.59  518        XP_059596436.1   
+photosystem II protein D1 [Casuarina cunninghamiana]              1          1          Casuarina cu... eudicots        29737      688    688   100%  0.0   95.53  358        YCU27129.1       
+unnamed protein product [Ilex paraguariensis]                     319        302        Eukaryota       eukaryotes      2759       687    687   99%   0.0   96.85  379        CAK9171240.1     
+photosystem II protein D1 [Allium neriniflorum]                   1          1          Allium nerin... monocots        105307     686    686   100%  0.0   89.54  392        YP_009869259.1   
+putative photosystem II [Helianthus anomalus]                     1          1          Helianthus a... eudicots        73274      686    686   100%  0.0   86.82  402        MFS7890959.1     
+photosystem II protein D1 [Allium macranthum]                     3          3          Mesangiospermae flowering pl... 1437183    683    683   100%  0.0   97.45  348        YP_009869173.1   
+hypothetical protein ACJX0J_002856, partial [Zea mays]            1          1          Zea mays        maize           4577       683    683   96%   0.0   99.41  419        KAL5645252.1     
+photosystem II protein D1 [Cuscuta pacifica]                      21         19         Cuscuta subg... eudicots        1824618    681    681   100%  0.0   94.32  353        YP_010760305.1   
+Photosystem II protein D1 [Vaccinium angustifolium]               1          1          Vaccinium an... lowbush blue... 472369     681    681   100%  0.0   86.35  403        YP_010569223.1   
+hypothetical protein ES319_A08G109400v1, partial [Gossypium...    2          2          Gossypium       eudicots        3633       679    679   99%   0.0   95.11  486        KAB2069699.1     
+hypothetical protein EZV62_024519 [Acer yangbiense]               1          1          Acer yangbiense eudicots        1000413    679    679   95%   0.0   99.10  659        TXG48644.1       
+hypothetical protein LUZ63_022399 [Rhynchospora breviuscula]      5          1          Rhynchospora... monocots        2022672    679    679   97%   0.0   97.67  554        KAJ1682380.1     
+unnamed protein product [Cuscuta campestris]                      1          1          Cuscuta camp... field dodder    132261     678    678   98%   0.0   94.52  487        VFQ93862.1       
+photosystem II protein D1-like [Triticum urartu]                  1          1          Triticum urartu monocots        4572       675    675   94%   0.0   99.70  389        XP_048527401.1   
+photosystem II protein D1 [Selaginella nummulariifolia]           6          5          Embryophyta     land plants     3193       674    674   100%  0.0   94.33  353        QGU93081.1       
+hypothetical protein F8388_021192 [Cannabis sativa]               1          1          Cannabis sativa eudicots        3483       673    673   98%   0.0   94.52  595        KAF4381564.1     
+hypothetical protein ACJX0J_001593 [Zea mays]                     2          1          Zea mays        maize           4577       672    672   98%   0.0   96.54  759        KAL5644620.1     
+photosystem II protein D1 [Mesostigma viride]                     35         22         Eukaryota       eukaryotes      2759       672    672   100%  0.0   91.78  353        NP_038350.1      
+hypothetical protein SASPL_141511 [Salvia splendens]              1          1          Salvia splen... eudicots        180675     672    672   93%   0.0   99.39  704        KAG6400023.1     
+hypothetical protein ACJX0J_000219, partial [Zea mays]            7          1          Zea mays        maize           4577       670    670   98%   0.0   96.54  601        KAL5642365.1     
+photosystem II protein D1-like [Lycium barbarum]                  3          3          Pentapetalae    eudicots        1437201    670    670   100%  0.0   92.78  360        XP_060209430.1   
+hypothetical protein H6P81_021427 [Aristolochia fimbriata]        1          1          Aristolochia... flowering pl... 158543     669    669   93%   0.0   100.00 515        KAG9438622.1     
+hypothetical protein P3S68_011875 [Capsicum galapagoense]         2          2          Pentapetalae    eudicots        1437201    667    667   100%  0.0   93.79  354        KAM3379461.1     
+hypothetical protein ACJX0J_003295 [Zea mays]                     8          1          Zea mays        maize           4577       667    667   98%   0.0   96.54  425        KAL5646750.1     
+hypothetical protein OSB04_un001696 [Centaurea solstitialis]      1          1          Centaurea so... eudicots        347529     664    760   93%   0.0   99.69  781        KAJ9535217.1     
+photosystem II core 32 kDa protein [Lepocinclis ovum]             34         30         Eukaryota       eukaryotes      2759       662    662   97%   0.0   93.60  344        YP_009538703.1   
+photosystem II protein D1 [Anoectochilus roxburghii]              1          1          Anoectochilu... monocots        569774     656    656   99%   0.0   89.84  388        AKP95034.1       
+photosystem II protein D1 [Sargentodoxa cuneata]                  8          7          Mesangiospermae flowering pl... 1437183    656    656   94%   0.0   97.30  333        YP_010230790.1   
+Photosystem II protein D1 [Capsicum chinense]                     1          1          Capsicum chi... eudicots        80379      654    654   99%   0.0   88.41  521        PHU00557.1       
+putative photosystem II [Helianthus annuus]                       1          1          Helianthus a... common sunfl... 4232       653    653   96%   0.0   87.40  389        KAJ0780924.1     
+photosystem II q(b) protein [Dulcicalothrix desertica]            17         11         Nostocales      cyanobacteria   1161       652    652   100%  0.0   86.67  360        WP_145837502.1   
+photosystem II q(b) protein [Nostoc sp. CMAA1605]                 257        162        root            root            1          651    651   100%  0.0   86.67  360        WP_236143959.1   
+hypothetical protein ACJX0J_004179, partial [Zea mays]            2          1          Zea mays        maize           4577       651    651   98%   0.0   94.24  557        KAL5645484.1     
+photosystem II protein D1 [Caulerpa okamurae]                     36         35         Bryopsidales    green algae     33104      650    650   100%  0.0   88.42  354        ARR28402.1       
+photosystem II q(b) protein [Nostoc sp. UHCC 0302]                41         33         Bacteria        bacteria        2          650    650   100%  0.0   85.83  360        WP_341527730.1   
+photosystem II q(b) protein [Erythrobacter sp.]                   1          1          Erythrobacte... a-proteobact... 1042       649    649   100%  0.0   84.72  414        MID8775618.1     
+photosystem II q(b) protein [Chlorogloeopsis fritschii]           28         26         Cyanophyceae    cyanobacteria   3028117    649    649   100%  0.0   86.39  360        WP_016873445.1   
+photosystem II DI subunit, Q(B) protein [Chamaesiphon minutus...  1          1          Chamaesiphon... cyanobacteria   1173020    648    648   100%  0.0   85.56  424        AFY96170.1       
+photosystem II q(b) protein [Scytonema sp. UIC 10036]             170        123        Cyanobacteriota cyanobacteria   1117       647    647   100%  0.0   86.67  360        WP_155748257.1   
+hypothetical protein TETLOH_038963 [Tetrastigma loheri]           12         3          Tetrastigma     eudicots        149371     647    647   100%  0.0   92.35  334        KAN4895842.1     
+photosystem II protein D1 [Hyalogonium fusiforme]                 1          1          Hyalogonium ... green algae     2926373    647    647   98%   0.0   90.14  351        UZA61425.1       
+photosystem II q(b) protein [Nostoc sp. C117]                     9          9          Nostocaceae     cyanobacteria   1162       646    646   100%  0.0   85.00  360        WP_392531245.1   
+photosystem II q(b) protein [Anabaena sphaerica]                  373        176        Cyanobacteriota cyanobacteria   1117       646    646   100%  0.0   85.00  360        WP_190560342.1   
+photosystem II protein D1 [Cyanidioschyzon merolae strain 10D]    56         53         Rhodophyta      red algae       2763       646    646   99%   0.0   89.37  360        NP_848970.1      
+photosystem II protein D1 [Cyanidium caldarium]                   86         85         Eukaryota       eukaryotes      2759       646    646   97%   0.0   90.12  360        NP_045067.1      
+photosystem II q(b) protein [Microcoleus sp. B4-D4]               504        290        Bacteria        bacteria        2          646    646   100%  0.0   85.00  360        WP_333384322.1   
+photosystem II DI subunit, Q(B) protein [Cylindrospermum...       1          1          Cylindrosper... cyanobacteria   56107      645    645   100%  0.0   84.17  415        AFZ27688.1       
+photosystem II q(b) protein [Thermostichales cyanobacterium...    4          4          Cyanophyceae    cyanobacteria   3028117    644    644   100%  0.0   85.88  354        MEN9245833.1     
+photosystem II protein D1 [Guillardia theta]                      19         14         Eukaryota       eukaryotes      2759       644    644   98%   0.0   89.34  360        NP_050699.1      
+PsbA, partial [Metteniusa tessmanniana]                           4          4          Mesangiospermae flowering pl... 1437183    642    642   90%   0.0   100.00 317        ALI90494.1       
+hypothetical protein RYX36_018211 [Vicia faba]                    1          1          Vicia faba      fava bean       3906       641    641   95%   0.0   94.33  596        KAL5067324.1     
+photosystem II q(b) protein [Phormidesmis priestleyi]             5          4          Cyanophyceae    cyanobacteria   3028117    640    640   100%  0.0   84.17  360        WP_073070541.1   
+photosystem II q(b) protein [Pseudanabaena sp. UWO311]            60         38         Cyanobacteriota cyanobacteria   1117       639    639   98%   0.0   86.17  360        WP_142657310.1   
+hypothetical protein LXL04_039967 [Taraxacum kok-saghyz]          2          1          Taraxacum ko... eudicots        333970     639    639   93%   0.0   95.72  965        KAL4553934.1     
+photosystem II q(b) protein [Microcystis sp.]                     28         17         Cyanobacteriota cyanobacteria   1117       637    637   100%  0.0   84.44  360        WP_409828001.1   
+hypothetical protein [Adiantum nelumboides]                       40         35         Euphyllophyta   vascular plants 78536      637    637   90%   0.0   99.37  317        MCO5559881.1     
+hypothetical protein PR202_gb03392 [Eleusine coracana subsp....   9          8          Mesangiospermae flowering pl... 1437183    637    637   90%   0.0   99.37  317        GJN16407.1       
+RecName: Full=Photosystem II protein D1; Short=PSII D1 protein... 1          1          Galdieria su... red algae       130081     637    637   98%   0.0   89.28  360        P24725.1         
+photosystem II q(b) protein [Fischerella sp. JS2]                 69         64         Cyanobacteriota cyanobacteria   1117       636    636   100%  0.0   85.28  360        WP_315790630.1   
+photosystem II protein D1 [Camellia perpetua]                     2          2          Mesangiospermae flowering pl... 1437183    636    636   90%   0.0   99.68  367        YP_010049313.1   
+hypothetical protein CASLAS_043096 [Castilleja lassenensis]       4          2          Castilleja      eudicots        46036      635    635   99%   0.0   92.29  334        KAN8639252.1     
+photosystem II q(b) protein [Oscillatoria sp. FACHB-1407]         161        124        Bacteria        bacteria        2          635    635   100%  0.0   83.89  360        WP_190509504.1   
+photosystem II protein D1, partial [Davidia involucrata]          42         40         Mesangiospermae flowering pl... 1437183    635    635   90%   0.0   98.43  319        ADM92692.1       
+hypothetical protein ACJX0J_000317 [Zea mays]                     1          1          Zea mays        maize           4577       634    634   88%   0.0   99.68  737        KAL5646186.1     
+Photosystem II protein D1, partial [Melia azedarach]              5          5          Magnoliopsida   flowering pl... 3398       634    634   90%   0.0   99.37  316        KAJ4699412.1     
+photosystem II protein D1 [Fagopyrum cymosum]                     8          8          Mesangiospermae flowering pl... 1437183    634    634   89%   0.0   99.37  339        AKJ77622.1       
+Photosystem II protein D1 [Capsicum baccatum]                     1          1          Capsicum bac... eudicots        33114      633    633   100%  0.0   87.54  353        PHT28653.1       
+hypothetical protein SAY87_028498 [Trapa incisa]                  1          1          Trapa incisa    eudicots        236973     633    633   91%   0.0   96.25  651        KAK4773479.1     
+photosystem I reaction center subunit IX [Nostoc linckia z7]      1          1          Nostoc linck... cyanobacteria   1628745    633    633   100%  0.0   78.17  394        PHJ92508.1       
+unnamed protein product [Victoria cruziana]                       1          1          Victoria cru... flowering pl... 4421       633    633   100%  0.0   87.54  353        CAN6446880.1     
+hypothetical protein M9H77_09773 [Catharanthus roseus]            1          1          Catharanthus... Madagascar p... 4058       633    633   100%  0.0   88.46  346        KAI5678823.1     
+photosystem II q(b) protein [Gloeomargarita lithophora]           7          7          Bacteria        bacteria        2          632    632   100%  0.0   88.48  356        WP_071454083.1   
+photosystem II protein D1, partial [Populus alba]                 6          6          Pentapetalae    eudicots        1437201    632    632   89%   0.0   99.68  314        AAM12551.1       
+photosystem II protein D1 [Paspalum setaceum]                     1          1          Paspalum set... monocots        547450     632    632   100%  0.0   90.08  353        QYC37456.1       
+
+
+Alignments:
+
+>hypothetical protein [Stylosanthes scabra]
+Sequence ID: MED6121190.1 Length: 867
+Range 1: 515 to 867
+
+Score:724 bits(1870), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:353/353(100%), Positives:353/353(100%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  515  MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  574
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  575  DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  634
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  635  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  694
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  695  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  754
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  755  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  814
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG
+Sbjct  815  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  867
+
+
+
+
+>hypothetical protein RIF29_48433 [Crotalaria pallida]
+Sequence ID: KAK7231220.1 Length: 780
+Range 1: 428 to 780
+
+Score:718 bits(1854), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:349/353(99%), Positives:351/353(99%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  428  MTAILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  487
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  488  DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  547
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  548  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  607
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  608  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  667
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  668  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  727
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS+NG
+Sbjct  728  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAVESPSING  780
+
+
+
+
+>hypothetical protein IEQ34_026249 [Dendrobium chrysotoxum]
+Sequence ID: KAH0437198.1 Length: 1317
+Range 1: 971 to 1317
+
+Score:717 bits(1850), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:343/347(99%), Positives:346/347(99%), Gaps:0/347(0%)
+
+Query  7     RRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREP  66
+             RRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREP
+Sbjct  971   RRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREP  1030
+
+Query  67    VSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACY  126
+             VSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACY
+Sbjct  1031  VSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACY  1090
+
+Query  127   MGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVF  186
+             MGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVF
+Sbjct  1091  MGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVF  1150
+
+Query  187   QAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETY  246
+             QAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETY
+Sbjct  1151  QAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETY  1210
+
+Query  247   NIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSV  306
+             NIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSV
+Sbjct  1211  NIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSV  1270
+
+Query  307   VDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+             VDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA++E PS+NG
+Sbjct  1271  VDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLASVEAPSING  1317
+
+
+
+
+>photosystem II protein D1 [Zea mays]
+Sequence ID: NP_043004.1 Length: 353
+Range 1: 1 to 353
+
+Score:711 bits(1836), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:351/353(99%), Positives:352/353(99%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVP LNG
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPYLNG  353
+
+
+
+
+>hypothetical protein LXL04_040228 [Taraxacum kok-saghyz]
+Sequence ID: KAL4553841.1 Length: 829
+Range 1: 477 to 829
+
+Score:711 bits(1835), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:344/353(97%), Positives:348/353(98%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            +++I  RRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  477  VSSISRRRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  536
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  537  DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  596
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  597  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  656
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  657  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  716
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  717  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  776
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS NG
+Sbjct  777  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAIEAPSTNG  829
+
+
+
+
+>hypothetical protein LXL04_040113 [Taraxacum kok-saghyz]
+Sequence ID: KAL4553895.1 Length: 649
+Range 1: 297 to 649
+
+Score:708 bits(1828), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:344/353(97%), Positives:348/353(98%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            +++I  RRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  297  VSSISRRRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  356
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  357  DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  416
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  417  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  476
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  477  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  536
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  537  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  596
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS NG
+Sbjct  597  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAIEAPSTNG  649
+
+
+
+
+>PSII 32 kDa protein [Cocos nucifera]
+Sequence ID: YP_009315935.1 Length: 623
+Range 1: 1 to 352
+
+Score:707 bits(1825), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:349/352(99%), Positives:350/352(99%), Gaps:0/352(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESAN GYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANAGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLN  352
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+EVPS N
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAVEVPSTN  352
+
+
+
+
+>hypothetical protein ACJX0J_002495 [Zea mays]
+Sequence ID: KAL5646259.1 Length: 768
+Range 1: 1 to 347
+
+Score:707 bits(1824), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:346/347(99%), Positives:347/347(100%), Gaps:0/347(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+
+
+
+
+>hypothetical protein ACJX0J_002089 [Zea mays]
+Sequence ID: KAL5646015.1 Length: 801
+Range 1: 1 to 347
+
+Score:706 bits(1823), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:346/347(99%), Positives:347/347(100%), Gaps:0/347(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+
+
+
+
+>PSII 32 kDa protein [Vitis vinifera]
+Sequence ID: YP_002608363.1 Length: 615
+Range 1: 1 to 352
+
+Score:706 bits(1823), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:346/352(98%), Positives:348/352(98%), Gaps:0/352(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT ILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTVILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESAN GYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANAGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLN  352
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS+N
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAVEAPSIN  352
+
+
+
+
+>hypothetical protein ACJX0J_003739 [Zea mays]
+Sequence ID: KAL5646228.1 Length: 792
+Range 1: 1 to 347
+
+Score:706 bits(1822), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:346/347(99%), Positives:347/347(100%), Gaps:0/347(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+
+
+
+
+>PsbA [Chimaphila japonica]
+Sequence ID: AVY52571.1 Length: 353
+Range 1: 1 to 353
+
+Score:704 bits(1816), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:347/353(98%), Positives:349/353(98%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA++VP   G
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAIQVPFTTG  353
+
+
+
+
+>hypothetical protein ACJX0J_001578, partial [Zea mays]
+Sequence ID: KAL5642493.1 Length: 673
+Range 1: 1 to 347
+
+Score:703 bits(1815), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:346/347(99%), Positives:347/347(100%), Gaps:0/347(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+
+
+
+
+>hypothetical protein VitviT2T_019323 [Vitis vinifera]
+Sequence ID: WKA01015.1 Length: 465
+Range 1: 1 to 352
+
+Score:702 bits(1813), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:346/352(98%), Positives:348/352(98%), Gaps:0/352(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT ILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTVILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESAN GYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANAGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLN  352
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS+N
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAVEAPSIN  352
+
+
+
+
+>hypothetical protein ACJX0J_003446 [Zea mays]
+Sequence ID: KAL5645948.1 Length: 768
+Range 1: 1 to 347
+
+Score:702 bits(1813), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:346/347(99%), Positives:347/347(100%), Gaps:0/347(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+
+
+
+
+>hypothetical protein ACJX0J_004810, partial [Zea mays]
+Sequence ID: KAL5644144.1 Length: 393
+Range 1: 1 to 347
+
+Score:702 bits(1811), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:346/347(99%), Positives:347/347(100%), Gaps:0/347(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+
+
+
+
+>photosystem II protein D1 [Adiantum capillus-veneris]
+Sequence ID: NP_848104.1 Length: 353
+Range 1: 1 to 353
+
+Score:699 bits(1803), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:341/353(97%), Positives:348/353(98%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA LERRES SLWGRFC+WITSTENRLYIGWFGVLMIPTLLTATSVFIIAF+AAPPVDI
+Sbjct  1    MTATLERRESASLWGRFCDWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFVAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAA AVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAAAAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESAN GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANAGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA+++ PS+NG
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLASVDAPSING  353
+
+
+
+
+>hypothetical protein TETHAR_038142 [Tetrastigma harmandii]
+Sequence ID: KAN4938915.1 Length: 769
+Range 1: 425 to 769
+
+Score:696 bits(1795), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:338/345(98%), Positives:341/345(98%), Gaps:0/345(0%)
+
+Query  9    ESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVS  68
+               SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVS
+Sbjct  425  RKRSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVS  484
+
+Query  69   GSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMG  128
+            GSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMG
+Sbjct  485  GSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMG  544
+
+Query  129  REWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQA  188
+            REWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQA
+Sbjct  545  REWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQA  604
+
+Query  189  EHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNI  248
+            EHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNI
+Sbjct  605  EHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNI  664
+
+Query  249  VAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVD  308
+            VAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFT+LGISTMAFNLNGFNFNQSVVD
+Sbjct  665  VAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTSLGISTMAFNLNGFNFNQSVVD  724
+
+Query  309  SQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            SQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS+NG
+Sbjct  725  SQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAVEAPSING  769
+
+
+
+
+>hypothetical protein E3N88_14285 [Mikania micrantha]
+Sequence ID: KAD5802925.1 Length: 628
+Range 1: 280 to 628
+
+Score:695 bits(1794), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:340/349(97%), Positives:343/349(98%), Gaps:0/349(0%)
+
+Query  5    LERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIR  64
+            +ERRES SLWGRFCN ITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIR
+Sbjct  280  IERRESESLWGRFCNRITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIR  339
+
+Query  65   EPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVA  124
+            EPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVA
+Sbjct  340  EPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVA  399
+
+Query  125  CYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMI  184
+             YMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMI
+Sbjct  400  YYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMI  459
+
+Query  185  VFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEE  244
+            VFQA+HNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEE
+Sbjct  460  VFQAKHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEE  519
+
+Query  245  TYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQ  304
+            TYNIVAAHGYFGRLIFQYASFNNS SLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQ
+Sbjct  520  TYNIVAAHGYFGRLIFQYASFNNSHSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQ  579
+
+Query  305  SVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            SVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS NG
+Sbjct  580  SVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAIEAPSTNG  628
+
+
+
+
+>photosystem II protein D1 [Chaetosphaeridium globosum]
+Sequence ID: NP_683826.1 Length: 353
+Range 1: 1 to 353
+
+Score:695 bits(1793), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:337/353(95%), Positives:347/353(98%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA LERRES SLWGRFC+W+TSTENRLYIGWFGV+MIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTATLERRESASLWGRFCDWVTSTENRLYIGWFGVVMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAI+PTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHF 
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIVPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFF  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LG+ CYMGREWELS+RLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGICCYMGREWELSYRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESAN GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANAGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA++E PS+NG
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLASVEAPSVNG  353
+
+
+
+
+>photosystem II protein D1 [Amborella trichopoda]
+Sequence ID: NP_904079.2 Length: 350
+Range 1: 1 to 350
+
+Score:694 bits(1791), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:341/350(97%), Positives:344/350(98%), Gaps:0/350(0%)
+
+Query  4    ILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGI  63
+            +LERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGI
+Sbjct  1    MLERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGI  60
+
+Query  64   REPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGV  123
+            REPVSGSLLYGNNI+SGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLL V
+Sbjct  61   REPVSGSLLYGNNILSGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLSV  120
+
+Query  124  ACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFM  183
+            ACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISG FN M
+Sbjct  121  ACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGIFNLM  180
+
+Query  184  IVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEE  243
+            IVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESAN GYRFGQEE
+Sbjct  181  IVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANAGYRFGQEE  240
+
+Query  244  ETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFN  303
+            ETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFN
+Sbjct  241  ETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFN  300
+
+Query  304  QSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            QSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS NG
+Sbjct  301  QSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAVEAPSTNG  350
+
+
+
+
+>hypothetical protein LXL04_023270 [Taraxacum kok-saghyz]
+Sequence ID: KAL4567678.1 Length: 412
+Range 1: 65 to 412
+
+Score:694 bits(1790), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:340/348(98%), Positives:344/348(98%), Gaps:0/348(0%)
+
+Query  6    ERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIRE  65
+            +RRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIRE
+Sbjct  65   QRRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIRE  124
+
+Query  66   PVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVAC  125
+            PVSGSLLYGNNIISGAIIP+SAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVAC
+Sbjct  125  PVSGSLLYGNNIISGAIIPSSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVAC  184
+
+Query  126  YMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIV  185
+            YMGREWELSFRLGMRPWIAVAYSA VAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIV
+Sbjct  185  YMGREWELSFRLGMRPWIAVAYSALVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIV  244
+
+Query  186  FQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEET  245
+            FQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEET
+Sbjct  245  FQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEET  304
+
+Query  246  YNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQS  305
+            YNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPV+GIWFTALGISTMAFNLNGFNFNQS
+Sbjct  305  YNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVIGIWFTALGISTMAFNLNGFNFNQS  364
+
+Query  306  VVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            VVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS NG
+Sbjct  365  VVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAIEAPSTNG  412
+
+
+
+
+>hypothetical chloroplast RF21 [Ipomoea trifida]
+Sequence ID: GLL25468.1 Length: 698
+Range 1: 360 to 698
+
+Score:692 bits(1786), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:336/339(99%), Positives:337/339(99%), Gaps:0/339(0%)
+
+Query  15   GRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYG  74
+            GRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYG
+Sbjct  360  GRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYG  419
+
+Query  75   NNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELS  134
+            NNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELS
+Sbjct  420  NNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELS  479
+
+Query  135  FRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILM  194
+            FRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILM
+Sbjct  480  FRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILM  539
+
+Query  195  HPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGY  254
+            HPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGY
+Sbjct  540  HPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGY  599
+
+Query  255  FGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVI  314
+            FGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVI
+Sbjct  600  FGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVI  659
+
+Query  315  NTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS NG
+Sbjct  660  NTWADIINRANLGMEVMHERNAHNFPLDLAAIEAPSTNG  698
+
+
+
+
+>hypothetical protein ACJX0J_002761, partial [Zea mays]
+Sequence ID: KAL5643177.1 Length: 565
+Range 1: 32 to 372
+
+Score:691 bits(1783), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:340/341(99%), Positives:341/341(100%), Gaps:0/341(0%)
+
+Query  7    RRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREP  66
+            RRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREP
+Sbjct  32   RRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREP  91
+
+Query  67   VSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACY  126
+            VSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACY
+Sbjct  92   VSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACY  151
+
+Query  127  MGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVF  186
+            MGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVF
+Sbjct  152  MGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVF  211
+
+Query  187  QAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETY  246
+            QAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FGQEEETY
+Sbjct  212  QAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFGQEEETY  271
+
+Query  247  NIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSV  306
+            NIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSV
+Sbjct  272  NIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSV  331
+
+Query  307  VDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            VDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE
+Sbjct  332  VDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  372
+
+
+
+
+>photosystem II Q(b) protein D1 [Cymbidium faberi]
+Sequence ID: YP_009163382.1 Length: 396
+Range 1: 1 to 396
+
+Score:691 bits(1783), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:349/396(88%), Positives:352/396(88%), Gaps:43/396(10%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMP-------  173
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMP       
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  174  ------------------------------------LGISGTFNFMIVFQAEHNILMHPF  197
+                                                LGISGTFNFMIVFQAEHNILMHPF
+Sbjct  181  NFMIVFQAEHNILIMAATAVFLIYPIGQGSFSDGMLLGISGTFNFMIVFQAEHNILMHPF  240
+
+Query  198  HMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGR  257
+            HMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGR
+Sbjct  241  HMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGR  300
+
+Query  258  LIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTW  317
+            LIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTW
+Sbjct  301  LIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTW  360
+
+Query  318  ADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            ADIINRANLGMEVMHERNAHNFPLDLA++E PS+NG
+Sbjct  361  ADIINRANLGMEVMHERNAHNFPLDLASVEAPSING  396
+
+
+
+
+>D1 reaction center protein photosystem II [Trebouxia lynnae]
+Sequence ID: YP_009725414.1 Length: 353
+Range 1: 1 to 353
+
+Score:690 bits(1781), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:332/353(94%), Positives:345/353(97%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES SLW RFC W+TSTENR+YIGWFGVLMIPTLLTATSVFIIAF+AAPPVDI
+Sbjct  1    MTAILERRESASLWARFCEWVTSTENRIYIGWFGVLMIPTLLTATSVFIIAFVAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGA++PTS AIGLHFYPIWEAAS+DEWLYNGGPY+L+V HF 
+Sbjct  61   DGIREPVSGSLLYGNNIISGAVVPTSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVCHFF  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGV CYMGREWELSFRLGMRPWIAVAYSAPVAAATAVF+IYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVCCYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFIIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA++E PS+NG
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLASVEAPSVNG  353
+
+
+
+
+>photosystem II protein D1-like [Vitis vinifera]
+Sequence ID: XP_059596436.1 Length: 518
+Range 1: 1 to 352
+
+Score:688 bits(1776), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:340/352(97%), Positives:343/352(97%), Gaps:0/352(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            M  ILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MIVILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTS AIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSTAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSF LGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFHLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESAN GYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANAGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFG+LIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGQLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLN  352
+            NFNQSVVDSQGRVINTWADIIN ANLGMEVMHERNAHNFPLDLAA+E  S+N
+Sbjct  301  NFNQSVVDSQGRVINTWADIINCANLGMEVMHERNAHNFPLDLAAVEASSIN  352
+
+
+
+
+>photosystem II protein D1 [Casuarina cunninghamiana]
+Sequence ID: YCU27129.1 Length: 358
+Range 1: 1 to 358
+
+Score:688 bits(1775), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:342/358(96%), Positives:347/358(96%), Gaps:5/358(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYE-----LI  115
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYE     LI
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYEVRSYELI  120
+
+Query  116  VLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLG  175
+            V +FLLGVACYMGREWELSFRLGMRPWIA+AYSAP+AA TA+FLIYPIGQGSFSDGMPLG
+Sbjct  121  VHNFLLGVACYMGREWELSFRLGMRPWIALAYSAPLAAPTALFLIYPIGQGSFSDGMPLG  180
+
+Query  176  ISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANE  235
+            ISGTFN MIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANE
+Sbjct  181  ISGTFNLMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANE  240
+
+Query  236  GYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAF  295
+            GYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAF
+Sbjct  241  GYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAF  300
+
+Query  296  NLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS NG
+Sbjct  301  NLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAVEAPSTNG  358
+
+
+
+
+>unnamed protein product [Ilex paraguariensis]
+Sequence ID: CAK9171240.1 Length: 379
+Range 1: 31 to 379
+
+Score:687 bits(1774), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:338/349(97%), Positives:341/349(97%), Gaps:0/349(0%)
+
+Query  5    LERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIR  64
+            ++   S SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIR
+Sbjct  31   IKDLSSESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIR  90
+
+Query  65   EPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVA  124
+            EPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVA
+Sbjct  91   EPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVA  150
+
+Query  125  CYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMI  184
+            CYMGREWELSFRLGMRPWIAVAYSAPVAAA AVFLIYPIGQGSFSDGMPLGISGTFNFMI
+Sbjct  151  CYMGREWELSFRLGMRPWIAVAYSAPVAAAAAVFLIYPIGQGSFSDGMPLGISGTFNFMI  210
+
+Query  185  VFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEE  244
+            VFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESAN GYRFGQEEE
+Sbjct  211  VFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANAGYRFGQEEE  270
+
+Query  245  TYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQ  304
+            TYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQ
+Sbjct  271  TYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQ  330
+
+Query  305  SVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            SVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS NG
+Sbjct  331  SVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAIEAPSTNG  379
+
+
+
+
+>photosystem II protein D1 [Allium neriniflorum]
+Sequence ID: YP_009869259.1 Length: 392
+Range 1: 1 to 392
+
+Score:686 bits(1771), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:351/392(90%), Positives:352/392(89%), Gaps:39/392(9%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYN------------  108
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYN            
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGLHFYPIWEAA  120
+
+Query  109  --------GGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLI  160
+                    GGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLI
+Sbjct  121  SVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLI  180
+
+Query  161  YPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVT  220
+            YPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVT
+Sbjct  181  YPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVT  240
+
+Query  221  SS-------------------LIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQ  261
+            SS                   LIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQ
+Sbjct  241  SSLIRETTENECYCMVPWYPLLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQ  300
+
+Query  262  YASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADII  321
+            YASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADII
+Sbjct  301  YASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADII  360
+
+Query  322  NRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NRANLGMEVMHERNAHNFPLDLAA+EVPS NG
+Sbjct  361  NRANLGMEVMHERNAHNFPLDLAAVEVPSTNG  392
+
+
+
+
+>putative photosystem II [Helianthus anomalus]
+Sequence ID: MFS7890959.1 Length: 402
+Range 1: 1 to 402
+
+Score:686 bits(1770), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:349/402(87%), Positives:350/402(87%), Gaps:49/402(12%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAM--------------------------  214
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAM                          
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTEXXXXXXXXXXX  240
+
+Query  215  -----------------------HGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAA  251
+                                   HGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAA
+Sbjct  241  XXXXXXXXXXXXXXXXXXXXXXXHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAA  300
+
+Query  252  HGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQG  311
+            HGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQG
+Sbjct  301  HGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQG  360
+
+Query  312  RVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            RVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS NG
+Sbjct  361  RVINTWADIINRANLGMEVMHERNAHNFPLDLAAIEAPSTNG  402
+
+
+
+
+>photosystem II protein D1 [Allium macranthum]
+Sequence ID: YP_009869173.1 Length: 348
+Range 1: 1 to 348
+
+Score:683 bits(1763), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:344/353(97%), Positives:346/353(98%), Gaps:5/353(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIG  FYPIWEAASVDEWLYNGG  +LIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGF-FYPIWEAASVDEWLYNGG--QLIVLHFL  117
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMP  ISGTF
+Sbjct  118  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMP--ISGTF  175
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  176  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  235
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  236  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  295
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+EVPS NG
+Sbjct  296  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAVEVPSTNG  348
+
+
+
+
+>hypothetical protein ACJX0J_002856, partial [Zea mays]
+Sequence ID: KAL5645252.1 Length: 419
+Range 1: 34 to 372
+
+Score:683 bits(1762), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:337/339(99%), Positives:338/339(99%), Gaps:0/339(0%)
+
+Query  9    ESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVS  68
+             STSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVS
+Sbjct  34   RSTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVS  93
+
+Query  69   GSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMG  128
+            GSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMG
+Sbjct  94   GSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMG  153
+
+Query  129  REWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQA  188
+            REWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQA
+Sbjct  154  REWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQA  213
+
+Query  189  EHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNI  248
+            EHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FGQEEETYNI
+Sbjct  214  EHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFGQEEETYNI  273
+
+Query  249  VAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVD  308
+            VAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVD
+Sbjct  274  VAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVD  333
+
+Query  309  SQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            SQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE
+Sbjct  334  SQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  372
+
+
+
+
+>photosystem II protein D1 [Cuscuta pacifica]
+Sequence ID: YP_010760305.1 Length: 353
+Range 1: 1 to 352
+
+Score:681 bits(1758), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:332/352(94%), Positives:343/352(97%), Gaps:0/352(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT +L+RR S +LWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVF+IAFIAAPPVDI
+Sbjct  1    MTVVLDRRASENLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFLIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAAS+ EWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASIAEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIA+AYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAIAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTE+ESAN+GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTESESANKGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPV+ IWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVICIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLN  352
+            NFNQSVVDS+G VINTWADIINRANLGMEVMHERNAHNFPLDLA LEVP  N
+Sbjct  301  NFNQSVVDSKGHVINTWADIINRANLGMEVMHERNAHNFPLDLAVLEVPITN  352
+
+
+
+
+>Photosystem II protein D1 [Vaccinium angustifolium]
+Sequence ID: YP_010569223.1 Length: 403
+Range 1: 1 to 403
+
+Score:681 bits(1757), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:348/403(86%), Positives:349/403(86%), Gaps:50/403(12%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYN------------  108
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYN            
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  109  --------------------------------------GGPYELIVLHFLLGVACYMGRE  130
+                                                  GGPYELIVLHFLLGVACYMGRE
+Sbjct  121  LGVACYMGRGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGRE  180
+
+Query  131  WELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEH  190
+            WELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEH
+Sbjct  181  WELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEH  240
+
+Query  191  NILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVA  250
+            NILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVA
+Sbjct  241  NILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVA  300
+
+Query  251  AHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQ  310
+            AHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQ
+Sbjct  301  AHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQ  360
+
+Query  311  GRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            GRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS  G
+Sbjct  361  GRVINTWADIINRANLGMEVMHERNAHNFPLDLAAIEAPSTTG  403
+
+
+
+
+>hypothetical protein ES319_A08G109400v1, partial [Gossypium barbadense]
+Sequence ID: KAB2069699.1 Length: 486
+Range 1: 139 to 486
+
+Score:679 bits(1752), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:331/348(95%), Positives:337/348(96%), Gaps:0/348(0%)
+
+Query  6    ERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIRE  65
+            ERRES +LWGRFCNWITSTEN +YIGWFGVLMIPTLLT   VFIIAFI +PPVDIDGIRE
+Sbjct  139  ERRESETLWGRFCNWITSTENHIYIGWFGVLMIPTLLTVAFVFIIAFIVSPPVDIDGIRE  198
+
+Query  66   PVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVAC  125
+            PVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVAC
+Sbjct  199  PVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVAC  258
+
+Query  126  YMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIV  185
+            YMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGIS TFNFMIV
+Sbjct  259  YMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISSTFNFMIV  318
+
+Query  186  FQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEET  245
+            FQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETT+NESANEGYRF QEEET
+Sbjct  319  FQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTKNESANEGYRFCQEEET  378
+
+Query  246  YNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQS  305
+            YNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGIST AFNLNGFNFNQS
+Sbjct  379  YNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTTAFNLNGFNFNQS  438
+
+Query  306  VVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            VVDSQGRVINTWADIINRANLGMEVM ERNAHNFPLDLAA+E PS+NG
+Sbjct  439  VVDSQGRVINTWADIINRANLGMEVMRERNAHNFPLDLAAIEAPSING  486
+
+
+
+
+>hypothetical protein EZV62_024519 [Acer yangbiense]
+Sequence ID: TXG48644.1 Length: 659
+Range 1: 1 to 335
+
+Score:679 bits(1752), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:332/335(99%), Positives:332/335(99%), Gaps:0/335(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES  LWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESERLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERN  335
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHER 
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERR  335
+
+
+
+
+>hypothetical protein LUZ63_022399 [Rhynchospora breviuscula]
+Sequence ID: KAJ1682380.1 Length: 554
+Range 1: 1 to 344
+
+Score:679 bits(1752), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:336/344(98%), Positives:337/344(97%), Gaps:0/344(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA  344
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHER   +   D A
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERRLPSQHFDPA  344
+
+
+
+
+>unnamed protein product [Cuscuta campestris]
+Sequence ID: VFQ93862.1 Length: 487
+Range 1: 141 to 487
+
+Score:678 bits(1750), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:328/347(95%), Positives:339/347(97%), Gaps:0/347(0%)
+
+Query  7    RRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREP  66
+            RR+S +LWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVF+IAFIAAPPVDIDGIREP
+Sbjct  141  RRKSENLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFLIAFIAAPPVDIDGIREP  200
+
+Query  67   VSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACY  126
+            VSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAAS+ EWLYNGGPYELIVLHFLLGVACY
+Sbjct  201  VSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASIAEWLYNGGPYELIVLHFLLGVACY  260
+
+Query  127  MGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVF  186
+            MGREWELSFRLGMRPWIA+AYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVF
+Sbjct  261  MGREWELSFRLGMRPWIAIAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVF  320
+
+Query  187  QAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETY  246
+            QAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTE+ESAN+GY+FGQEEETY
+Sbjct  321  QAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTESESANKGYKFGQEEETY  380
+
+Query  247  NIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSV  306
+            NIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPV+GIWFTALGISTMAFNLNGFNFNQSV
+Sbjct  381  NIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVIGIWFTALGISTMAFNLNGFNFNQSV  440
+
+Query  307  VDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            VDS+G VINTWADIINRANLGMEVMHERNAHNFPLDLA  EV + N 
+Sbjct  441  VDSKGHVINTWADIINRANLGMEVMHERNAHNFPLDLATFEVSATNA  487
+
+
+
+
+>photosystem II protein D1-like [Triticum urartu]
+Sequence ID: XP_048527401.1 Length: 389
+Range 1: 1 to 333
+
+Score:675 bits(1741), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:332/333(99%), Positives:333/333(100%), Gaps:0/333(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHE  333
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHE
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHE  333
+
+
+
+
+>photosystem II protein D1 [Selaginella nummulariifolia]
+Sequence ID: QGU93081.1 Length: 353
+Range 1: 1 to 353
+
+Score:674 bits(1740), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:333/353(94%), Positives:337/353(95%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA  ERRES SLWGRFC+WITSTENRLYIGWFGVLMIPTLLTATSVFI A IAAPPVDI
+Sbjct  1    MTATPERRESASLWGRFCDWITSTENRLYIGWFGVLMIPTLLTATSVFITASIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGS  YGNNII GA IPTSAA G H YPIWEAAS+DEWLYNGGPYE IVLH L
+Sbjct  61   DGIREPVSGSPPYGNNIIPGATIPTSAATGSHSYPIWEAASIDEWLYNGGPYEPIVLHSL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESAN GYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANAGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA++E PSLNG
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLASVEAPSLNG  353
+
+
+
+
+>hypothetical protein F8388_021192 [Cannabis sativa]
+Sequence ID: KAF4381564.1 Length: 595
+Range 1: 219 to 565
+
+Score:673 bits(1737), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:328/347(95%), Positives:330/347(95%), Gaps:0/347(0%)
+
+Query  7    RRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREP  66
+            RRES SLWGRFCN ITSTE+RLYIG FGVLMIPTLLTA SVFIIAFIAAPPVDIDGIREP
+Sbjct  219  RRESESLWGRFCNCITSTEDRLYIGLFGVLMIPTLLTAISVFIIAFIAAPPVDIDGIREP  278
+
+Query  67   VSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACY  126
+            VSGSLLYGNNIIS AIIPTSAAIGLHFYPIWEA SVDEWLYNGGPYELIVLHFLLGVACY
+Sbjct  279  VSGSLLYGNNIISSAIIPTSAAIGLHFYPIWEATSVDEWLYNGGPYELIVLHFLLGVACY  338
+
+Query  127  MGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVF  186
+            MGREWELSFRLGMRPWIAVAYSAP+AAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVF
+Sbjct  339  MGREWELSFRLGMRPWIAVAYSAPIAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVF  398
+
+Query  187  QAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETY  246
+            QAEHNILMH FHMLGVAGVF   LFS MHGSLVTSSLIRET ENESANEGYRFGQEEETY
+Sbjct  399  QAEHNILMHLFHMLGVAGVFDSCLFSVMHGSLVTSSLIRETIENESANEGYRFGQEEETY  458
+
+Query  247  NIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSV  306
+            NIVAAHGYFGRLIFQYASFNNSRSLHFFL AW VVGIWF ALGISTMAFNLN FNFNQSV
+Sbjct  459  NIVAAHGYFGRLIFQYASFNNSRSLHFFLVAWLVVGIWFIALGISTMAFNLNDFNFNQSV  518
+
+Query  307  VDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            VDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPS NG
+Sbjct  519  VDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSRNG  565
+
+
+
+
+>hypothetical protein ACJX0J_001593 [Zea mays]
+Sequence ID: KAL5644620.1 Length: 759
+Range 1: 1 to 335
+
+Score:672 bits(1735), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:335/347(97%), Positives:335/347(96%), Gaps:12/347(3%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENES        
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENES--------  232
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+                TYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  233  ----TYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  288
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE
+Sbjct  289  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  335
+
+
+
+
+>photosystem II protein D1 [Mesostigma viride]
+Sequence ID: NP_038350.1 Length: 353
+Range 1: 1 to 353
+
+Score:672 bits(1735), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:324/353(92%), Positives:341/353(96%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA LERRES +LWGRFC +ITSTENRLYIGWFGV+MIP LLTA SV+IIAF+AAPPVDI
+Sbjct  1    MTATLERRESANLWGRFCEFITSTENRLYIGWFGVIMIPCLLTAISVYIIAFVAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISG++IP S AIGLHFYPIWEAAS+DEWLYNGGPY ++V HFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGSVIPMSNAIGLHFYPIWEAASLDEWLYNGGPYLMVVCHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LG+ACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGIACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESAN GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANAGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLA WPVVGIWFTA+GISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAVWPVVGIWFTAMGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA++E P++NG
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLASVEAPAVNG  353
+
+
+
+
+>hypothetical protein SASPL_141511 [Salvia splendens]
+Sequence ID: KAG6400023.1 Length: 704
+Range 1: 1 to 327
+
+Score:672 bits(1735), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:325/327(99%), Positives:326/327(99%), Gaps:0/327(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEA+SVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEASSVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLG  327
+            NFNQSVVDSQGRVINTWADIINRANLG
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLG  327
+
+
+
+
+>hypothetical protein ACJX0J_000219, partial [Zea mays]
+Sequence ID: KAL5642365.1 Length: 601
+Range 1: 1 to 336
+
+Score:670 bits(1728), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:335/347(97%), Positives:336/347(96%), Gaps:11/347(3%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRL           APVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRL-----------APVAAATAVFLIYPIGQGSFSDGMPLGISGTF  169
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FG
+Sbjct  170  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFG  229
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  230  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  289
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE
+Sbjct  290  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  336
+
+
+
+
+>photosystem II protein D1-like [Lycium barbarum]
+Sequence ID: XP_060209430.1 Length: 360
+Range 1: 1 to 360
+
+Score:670 bits(1728), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:334/360(93%), Positives:338/360(93%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT ILER ES SLWGRFCNWITSTENRLYIGWFGVL+IPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTVILERHESESLWGRFCNWITSTENRLYIGWFGVLIIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGN-------NIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYE  113
+            DGIREPVSGSLLYGN       NII  AIIPTS AIGLHFYPIWEAASVDEWLYNGGPYE
+Sbjct  61   DGIREPVSGSLLYGNDVPVSGNNIIFCAIIPTSVAIGLHFYPIWEAASVDEWLYNGGPYE  120
+
+Query  114  LIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMP  173
+            LIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATA FLIYPIGQGSF DGMP
+Sbjct  121  LIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAFFLIYPIGQGSFYDGMP  180
+
+Query  174  LGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESA  233
+            LGISGTFNFMIVF AEHNILMH FHMLG+AGVFG SLFSAMHGSLVTSSLIRETTENESA
+Sbjct  181  LGISGTFNFMIVFLAEHNILMHLFHMLGIAGVFGSSLFSAMHGSLVTSSLIRETTENESA  240
+
+Query  234  NEGYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTM  293
+            NEGY+FGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFL  WPVVGIWFTALGISTM
+Sbjct  241  NEGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLVVWPVVGIWFTALGISTM  300
+
+Query  294  AFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            AFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS NG
+Sbjct  301  AFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAIEAPSTNG  360
+
+
+
+
+>hypothetical protein H6P81_021427 [Aristolochia fimbriata]
+Sequence ID: KAG9438622.1 Length: 515
+Range 1: 1 to 329
+
+Score:669 bits(1727), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:329/329(100%), Positives:329/329(100%), Gaps:0/329(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGME  329
+            NFNQSVVDSQGRVINTWADIINRANLGME
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGME  329
+
+
+
+
+>hypothetical protein P3S68_011875 [Capsicum galapagoense]
+Sequence ID: KAM3379461.1 Length: 354
+Range 1: 1 to 354
+
+Score:667 bits(1721), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:332/354(94%), Positives:339/354(95%), Gaps:1/354(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAAS+  W+ +G    + V   +
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASLVTWVVSGSLVSVWVCDLM  120
+
+Query  121  -LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGT  179
+             LGVACYMGR+WELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGT
+Sbjct  121  ALGVACYMGRDWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGT  180
+
+Query  180  FNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRF  239
+            FNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRF
+Sbjct  181  FNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRF  240
+
+Query  240  GQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNG  299
+            GQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNG
+Sbjct  241  GQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNG  300
+
+Query  300  FNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            FNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS NG
+Sbjct  301  FNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAIEAPSTNG  354
+
+
+
+
+>hypothetical protein ACJX0J_003295 [Zea mays]
+Sequence ID: KAL5646750.1 Length: 425
+Range 1: 1 to 335
+
+Score:667 bits(1720), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:335/347(97%), Positives:335/347(96%), Gaps:12/347(3%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENES        
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENES--------  232
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+                TYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  233  ----TYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  288
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE
+Sbjct  289  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  335
+
+
+
+
+>hypothetical protein OSB04_un001696 [Centaurea solstitialis]
+Sequence ID: KAJ9535217.1 Length: 781
+Range 1: 1 to 327
+
+Score:664 bits(1713), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:326/327(99%), Positives:326/327(99%), Gaps:0/327(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLG  327
+            NFNQSVVDSQGRVINTWADIINRANLG
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLG  327
+
+
+
+
+Range 2: 708 to 781
+
+Score:96.3 bits(238), Expect:1e-17, 
+Method:Compositional matrix adjust., 
+Identities:52/89(58%), Positives:58/89(65%), Gaps:15/89(16%)
+
+Query  131  WELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEH  190
+            WELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMP+   G            
+Sbjct  708  WELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPVASGG------------  755
+
+Query  191  NILMHPFHMLGVAGVFGGSLFSAMHGSLV  219
+               +H +HM  +  +FG   F A +   V
+Sbjct  756  ---IHVWHMPALTEIFGDENFWAEYTHCV  781
+
+
+
+
+>photosystem II core 32 kDa protein [Lepocinclis ovum]
+Sequence ID: YP_009538703.1 Length: 344
+Range 1: 1 to 344
+
+Score:662 bits(1709), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:322/344(94%), Positives:332/344(96%), Gaps:0/344(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  LE+RESTSLW  FC+WITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAP VDI
+Sbjct  1    MTVTLEKRESTSLWSNFCSWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPQVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGA+IPTS AIGLHFYPIWEAASVDEWLYNGGPYELIV HF 
+Sbjct  61   DGIREPVSGSLLYGNNIISGAVIPTSNAIGLHFYPIWEAASVDEWLYNGGPYELIVCHFF  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +G+  YMGREWELSFRLGMRPWIAVAYSAPVAAATAVF+IYP+GQGSFSDGMPLGISGTF
+Sbjct  121  IGICAYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFIIYPLGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESAN GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANAGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLA WPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAIWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA  344
+            NFNQS+VDS+GRVINTWADIINRANLGMEVMHERNAHNFPLDLA
+Sbjct  301  NFNQSIVDSEGRVINTWADIINRANLGMEVMHERNAHNFPLDLA  344
+
+
+
+
+>photosystem II protein D1 [Anoectochilus roxburghii]
+Sequence ID: AKP95034.1 Length: 388
+Range 1: 1 to 384
+
+Score:656 bits(1693), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:345/384(90%), Positives:348/384(90%), Gaps:34/384(8%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELS----------------------------------FRLGMRPWIAVA  146
+            LGVACYMGREWELS                                  FRLGMRPWIAVA
+Sbjct  121  LGVACYMGREWELSFPSGYAPLDCCCIFSSCCGCCSCFLDLPCWSRKFFRLGMRPWIAVA  180
+
+Query  147  YSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVF  206
+            YSAPVAAA AVFLIYP+GQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVF
+Sbjct  181  YSAPVAAAAAVFLIYPVGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVF  240
+
+Query  207  GGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQYASFN  266
+            GGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQE ETYNIVAAHGYFGRLIFQYASFN
+Sbjct  241  GGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEGETYNIVAAHGYFGRLIFQYASFN  300
+
+Query  267  NSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANL  326
+            NSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANL
+Sbjct  301  NSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANL  360
+
+Query  327  GMEVMHERNAHNFPLDLAALEVPS  350
+            GMEVMHERNAHNFPLDLA++EVPS
+Sbjct  361  GMEVMHERNAHNFPLDLASMEVPS  384
+
+
+
+
+>photosystem II protein D1 [Sargentodoxa cuneata]
+Sequence ID: YP_010230790.1 Length: 333
+Range 1: 1 to 333
+
+Score:656 bits(1692), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:324/333(97%), Positives:328/333(98%), Gaps:0/333(0%)
+
+Query  21   ITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISG  80
+            +TSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISG
+Sbjct  1    MTSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISG  60
+
+Query  81   AIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMR  140
+            AIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMR
+Sbjct  61   AIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMR  120
+
+Query  141  PWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHML  200
+            PWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHML
+Sbjct  121  PWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHML  180
+
+Query  201  GVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIF  260
+            GVAGVFGGSLFSAMHGSLVTSSLIRET ENESAN GYRFGQE ETYNIVAAHGYFGRLIF
+Sbjct  181  GVAGVFGGSLFSAMHGSLVTSSLIRETNENESANAGYRFGQEGETYNIVAAHGYFGRLIF  240
+
+Query  261  QYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADI  320
+            QYASFNNSRSLHFFLAAWPVVGIWFT+LGISTMAFNLNGFNFNQSVVDSQGRVINTWADI
+Sbjct  241  QYASFNNSRSLHFFLAAWPVVGIWFTSLGISTMAFNLNGFNFNQSVVDSQGRVINTWADI  300
+
+Query  321  INRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            INRANLGMEVMHERNAHNFPLDLAA+E P+ NG
+Sbjct  301  INRANLGMEVMHERNAHNFPLDLAAVEAPATNG  333
+
+
+
+
+>Photosystem II protein D1 [Capsicum chinense]
+Sequence ID: PHU00557.1 Length: 521
+Range 1: 150 to 520
+
+Score:654 bits(1687), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:328/371(88%), Positives:334/371(90%), Gaps:23/371(6%)
+
+Query  5    LERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIR  64
+            +ERRES SLWGRFCNWITSTENRLY GWFGVLMIPTLLTATSVFIIAFIA+PPVDIDGIR
+Sbjct  150  VERRESESLWGRFCNWITSTENRLYNGWFGVLMIPTLLTATSVFIIAFIASPPVDIDGIR  209
+
+Query  65   EPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVA  124
+            EPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVA
+Sbjct  210  EPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVA  269
+
+Query  125  CYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMI  184
+             YMGRE ELSFRLGMRPWIAVAYSAPVAAATA+ LIYPIGQGSFSDGMPLGISGTFNFMI
+Sbjct  270  FYMGRESELSFRLGMRPWIAVAYSAPVAAATAILLIYPIGQGSFSDGMPLGISGTFNFMI  329
+
+Query  185  VFQAEHN-----------------------ILMHPFHMLGVAGVFGGSLFSAMHGSLVTS  221
+            VFQAEHN                       ILMHPFHMLGVAGVFGGSLFS MHG LVTS
+Sbjct  330  VFQAEHNILMHPFHMLGVAGVFGGSLSEHKILMHPFHMLGVAGVFGGSLFSVMHGFLVTS  389
+
+Query  222  SLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVV  281
+            SLIRETT+NESANEGYRFGQEEETYNIVA HGYFGRLIFQYASFNN  SLHFFLAAWPVV
+Sbjct  390  SLIRETTKNESANEGYRFGQEEETYNIVATHGYFGRLIFQYASFNNFSSLHFFLAAWPVV  449
+
+Query  282  GIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPL  341
+            GIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWA+IINRANLGMEVMHERNAHNF L
+Sbjct  450  GIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWANIINRANLGMEVMHERNAHNFSL  509
+
+Query  342  DLAALEVPSLN  352
+            DLAA+E  S N
+Sbjct  510  DLAAIEALSTN  520
+
+
+
+
+>putative photosystem II [Helianthus annuus]
+Sequence ID: KAJ0780924.1 Length: 389
+Range 1: 2 to 382
+
+Score:653 bits(1684), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:333/381(87%), Positives:334/381(87%), Gaps:42/381(11%)
+
+Query  15   GRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYG  74
+            G FCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYG
+Sbjct  2    GCFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYG  61
+
+Query  75   NNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELS  134
+            NNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELS
+Sbjct  62   NNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELS  121
+
+Query  135  FRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILM  194
+            FRLGMRPWI VAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILM
+Sbjct  122  FRLGMRPWIVVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILM  181
+
+Query  195  HPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTE-------------------------  229
+            HPFHMLGVAGVFGGSLFSAMHGSLVT SLIRETTE                         
+Sbjct  182  HPFHMLGVAGVFGGSLFSAMHGSLVTFSLIRETTETYNIVAAHGYFGRLIFQYASFNNSR  241
+
+Query  230  -----------------NESANEGYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLH  272
+                             NESANEGYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLH
+Sbjct  242  SLHFFLAAWPVVGIWLENESANEGYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLH  301
+
+Query  273  FFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMH  332
+            FFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMH
+Sbjct  302  FFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMH  361
+
+Query  333  ERNAHNFPLDLAALEVPSLNG  353
+            ERNAHNFPLDLAA+E PS NG
+Sbjct  362  ERNAHNFPLDLAAIEAPSTNG  382
+
+
+
+
+>photosystem II q(b) protein [Dulcicalothrix desertica]
+Sequence ID: WP_145837502.1 Length: 360
+Range 1: 1 to 360
+
+Score:652 bits(1683), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:312/360(87%), Positives:336/360(93%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA L+RRES ++W +FC WI STENRLYIGWFGVLMIPTLL AT+ FIIAF+AAPPVDI
+Sbjct  1    MTATLQRRESANVWEQFCRWIASTENRLYIGWFGVLMIPTLLAATTCFIIAFVAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSL+YGNNIISGA++P+S AIGLHFYPIWEAAS+DEWLYNGGPY+L+V HFL
+Sbjct  61   DGIREPVAGSLMYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +GV CYMGREWELS+RLGMRPWI VAYSAPVAAATAVFL+YPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGVFCYMGREWELSYRLGMRPWICVAYSAPVAAATAVFLVYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFM+VFQAEHNILMHPFH LGVAGVFGGSLFSAMHGSLVTSSL+RETTE ES N GY+FG
+Sbjct  181  NFMLVFQAEHNILMHPFHQLGVAGVFGGSLFSAMHGSLVTSSLVRETTETESQNYGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFT+LGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTSLGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA-------ALEVPSLNG  353
+            NFNQSV+DSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA       AL  P++NG
+Sbjct  301  NFNQSVIDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLASGDASPVALSAPAING  360
+
+
+
+
+>photosystem II q(b) protein [Nostoc sp. CMAA1605]
+Sequence ID: WP_236143959.1 Length: 360
+Range 1: 1 to 360
+
+Score:651 bits(1680), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:312/360(87%), Positives:339/360(94%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA L++R+S ++W +FC WITST NRLYIGWFGVLMIPTLL AT+ FIIAFIAAPPVDI
+Sbjct  1    MTATLQQRKSANVWEQFCEWITSTNNRLYIGWFGVLMIPTLLAATTCFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSL+YGNNIISGA++P+S AIGLHFYPIWEAAS+DEWLYNGGPY+L+V HFL
+Sbjct  61   DGIREPVAGSLMYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +GV CY+GREWELS+RLGMRPWI +A+SAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGVFCYLGREWELSYRLGMRPWICLAFSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSL+RETTENES N GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTENESQNYGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPV+GIWFTALG+STMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVIGIWFTALGVSTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEV-------PSLNG  353
+            NFNQSV+DSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA EV       P++NG
+Sbjct  301  NFNQSVIDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAGEVAPVAISAPAING  360
+
+
+
+
+>hypothetical protein ACJX0J_004179, partial [Zea mays]
+Sequence ID: KAL5645484.1 Length: 557
+Range 1: 1 to 328
+
+Score:651 bits(1680), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:327/347(94%), Positives:328/347(94%), Gaps:19/347(5%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIIS                   AASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIIS-------------------AASVDEWLYNGGPYELIVLHFL  101
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  102  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  161
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FG
+Sbjct  162  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFG  221
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  222  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  281
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE
+Sbjct  282  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  328
+
+
+
+
+>photosystem II protein D1 [Caulerpa okamurae]
+Sequence ID: ARR28402.1 Length: 354
+Range 1: 1 to 354
+
+Score:650 bits(1678), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:313/354(88%), Positives:333/354(94%), Gaps:1/354(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA+++ R + +LW  FCNWITST+NRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTALVQTRSTQTLWTDFCNWITSTDNRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLL+GNNIISGA++PTS AIGLHFYPIWEAAS+DEWL+NGGPYELIV HF 
+Sbjct  61   DGIREPVSGSLLFGNNIISGAVVPTSNAIGLHFYPIWEAASLDEWLFNGGPYELIVCHFF  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LG+ CYMGREWELSFRLGMRPWI+VAYSAPVAAATAVF+IYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGICCYMGREWELSFRLGMRPWISVAYSAPVAAATAVFIIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMH-GSLVTSSLIRETTENESANEGYRF  239
+            NFMIVFQAEHNILMHPFHM GVAGVFGGSLFSAMH GSLVTSSLIRET ENES N GYRF
+Sbjct  181  NFMIVFQAEHNILMHPFHMFGVAGVFGGSLFSAMHNGSLVTSSLIRETNENESTNAGYRF  240
+
+Query  240  GQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNG  299
+            GQEEETYNIVAAHGYFGRLIFQ+ASFNNSRSLHFFLA WPV  IW T+LGIS MAFNLNG
+Sbjct  241  GQEEETYNIVAAHGYFGRLIFQFASFNNSRSLHFFLAVWPVACIWLTSLGISVMAFNLNG  300
+
+Query  300  FNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            FNFNQS+VDS GRV+NTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS+NG
+Sbjct  301  FNFNQSIVDSHGRVLNTWADIINRANLGMEVMHERNAHNFPLDLAAIEAPSVNG  354
+
+
+
+
+>photosystem II q(b) protein [Nostoc sp. UHCC 0302]
+Sequence ID: WP_341527730.1 Length: 360
+Range 1: 1 to 360
+
+Score:650 bits(1678), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:309/360(86%), Positives:335/360(93%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  L+RRES ++W RFCNWITSTENR+Y+GWFGVLMIPTLL AT  FIIAF+AAPPVDI
+Sbjct  1    MTTTLQRRESANVWERFCNWITSTENRIYVGWFGVLMIPTLLAATVCFIIAFVAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSL+YGNNIISGA++P+S AIGLHFYPIWEAAS+DEWLYNGGPY+L+V HFL
+Sbjct  61   DGIREPVAGSLIYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +G ACYMGR+WELS+RLGMRPWI VAYSAP+A+A AV LIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGCACYMGRQWELSYRLGMRPWICVAYSAPLASAAAVLLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSL+RETTE ES N GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTETESLNYGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALG+STMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGVSTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA-------ALEVPSLNG  353
+            NFNQSV+DSQGRVINTWAD+INRANLGMEVMHERNAHNFPLDLA       AL  P++NG
+Sbjct  301  NFNQSVIDSQGRVINTWADVINRANLGMEVMHERNAHNFPLDLAAGEAAPVALTAPAING  360
+
+
+
+
+>photosystem II q(b) protein [Erythrobacter sp.]
+Sequence ID: MID8775618.1 Length: 414
+Range 1: 55 to 414
+
+Score:649 bits(1675), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:305/360(85%), Positives:337/360(93%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  L++RE++SLW +FC W+TST+NRLY+GWFGVLMIPTL++AT  FI+AFIAAPPVDI
+Sbjct  55   MTTTLQQRETSSLWDKFCGWVTSTDNRLYVGWFGVLMIPTLISATICFIVAFIAAPPVDI  114
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSL+YGNNII+GA+IP+S AIGLHFYPIWEAAS+DEWLYNGGPY+L+V HFL
+Sbjct  115  DGIREPVAGSLMYGNNIITGAVIPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFL  174
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +GV CYMGREWELS+RLGMRPWI VAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  175  IGVFCYMGREWELSYRLGMRPWICVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  234
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFM VFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSL+RETTE+ESAN GY+FG
+Sbjct  235  NFMFVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTESESANYGYKFG  294
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHF L AWPVVGIWFTALGISTMAFNLNGF
+Sbjct  295  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFLLGAWPVVGIWFTALGISTMAFNLNGF  354
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA-------ALEVPSLNG  353
+            NFNQS++DSQGRV++TWAD++NRANLGMEVMHERNAHNFPLDLA       AL  P++NG
+Sbjct  355  NFNQSILDSQGRVVSTWADVLNRANLGMEVMHERNAHNFPLDLAAGEAAPVALTAPAING  414
+
+
+
+
+>photosystem II q(b) protein [Chlorogloeopsis fritschii]
+Sequence ID: WP_016873445.1 Length: 360
+Range 1: 1 to 360
+
+Score:649 bits(1674), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:311/360(86%), Positives:336/360(93%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  L+RRES ++W RFC +ITSTENRLYIGWFGVLMIPTLL AT+ FIIAFIAAPPVDI
+Sbjct  1    MTTTLQRRESANVWERFCEFITSTENRLYIGWFGVLMIPTLLAATACFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSLLYGNNIISGA++P+S AIGLHFYPIWEAAS+DEWLYNGGPY+L++ HFL
+Sbjct  61   DGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVIFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +GV CY+GREWELS+RLGMRPWIAVAYSAPVAAATAVFLIYP+GQGSFSDGMPLGISGTF
+Sbjct  121  IGVFCYLGREWELSYRLGMRPWIAVAYSAPVAAATAVFLIYPLGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFM+VFQAEHNILMHPFH LGVAGVFGGSLFSAMHGSLVTSSL+RETTE ES N GY+FG
+Sbjct  181  NFMLVFQAEHNILMHPFHQLGVAGVFGGSLFSAMHGSLVTSSLVRETTETESQNYGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPV+GIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVIGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA-------ALEVPSLNG  353
+            NFNQSV+DSQG VINTWADIINRANLGMEVMHERNAHNFPLDLA       A+  P++NG
+Sbjct  301  NFNQSVIDSQGHVINTWADIINRANLGMEVMHERNAHNFPLDLASAESAPVAISAPAING  360
+
+
+
+
+>photosystem II DI subunit, Q(B) protein [Chamaesiphon minutus PCC 6605]
+Sequence ID: AFY96170.1 Length: 424
+Range 1: 65 to 424
+
+Score:648 bits(1672), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:308/360(86%), Positives:335/360(93%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  L+R ++ ++W RFC+WITSTENR+Y+GWFGVLM+PTLL+AT  FIIAFIAAPPVDI
+Sbjct  65   MTTTLQRTQNANVWDRFCSWITSTENRIYVGWFGVLMVPTLLSATICFIIAFIAAPPVDI  124
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSL++GNNIISGA+IP+S AIGLHFYPIWEAAS+DEWLYNGGPY+L+V HFL
+Sbjct  125  DGIREPVAGSLMFGNNIISGAVIPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFL  184
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +G+ CYMGREWELS+RLGMRPWI VAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  185  IGIFCYMGREWELSYRLGMRPWICVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  244
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSL+RETTE ES N GY+FG
+Sbjct  245  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTEVESQNYGYKFG  304
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFL AWPVVGIWFT+LG+STMAFNLNGF
+Sbjct  305  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVVGIWFTSLGVSTMAFNLNGF  364
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA-------ALEVPSLNG  353
+            NFNQSVVDSQGR INTWADIINRANLGMEVMHERNAHNFPLDLA       AL  P++NG
+Sbjct  365  NFNQSVVDSQGRGINTWADIINRANLGMEVMHERNAHNFPLDLAAGEATPVALTAPAING  424
+
+
+
+
+>photosystem II q(b) protein [Scytonema sp. UIC 10036]
+Sequence ID: WP_155748257.1 Length: 360
+Range 1: 1 to 360
+
+Score:647 bits(1670), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:312/360(87%), Positives:336/360(93%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA L+RRES ++W +FCNWITSTENRLY+GWFGVLMIPTLL+A   FIIAFIAAPPVDI
+Sbjct  1    MTATLQRRESANVWEQFCNWITSTENRLYVGWFGVLMIPTLLSAAICFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSLLYGNNIISGA++P+S AIGLHFYPIWEAAS+DEWLYNGGPY+L+V HFL
+Sbjct  61   DGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +GV CY+GREWELS+RLGMRPWI VA+SAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGVFCYLGREWELSYRLGMRPWICVAFSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFM+VFQAEHNILMHPFH LGVAGVFGGSLFSAMHGSLVTSSL+RETTE ES N GY+FG
+Sbjct  181  NFMLVFQAEHNILMHPFHQLGVAGVFGGSLFSAMHGSLVTSSLVRETTETESQNYGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEV-------PSLNG  353
+            NFNQSV+DSQGR I TWADI+NRANLGMEVMHERNAHNFPLDLAA EV       P++NG
+Sbjct  301  NFNQSVLDSQGRAIGTWADILNRANLGMEVMHERNAHNFPLDLAANEVAPVAISAPAING  360
+
+
+
+
+>hypothetical protein TETLOH_038963 [Tetrastigma loheri]
+Sequence ID: KAN4895842.1 Length: 334
+Range 1: 1 to 334
+
+Score:647 bits(1668), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:326/353(92%), Positives:329/353(93%), Gaps:19/353(5%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELI     
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELI-----  115
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+                          F  GMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  116  --------------FPSGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  161
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  162  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  221
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QE ETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFT+LGISTMAFNLNGF
+Sbjct  222  QEGETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTSLGISTMAFNLNGF  281
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E PS+NG
+Sbjct  282  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAVEAPSING  334
+
+
+
+
+>photosystem II protein D1 [Hyalogonium fusiforme]
+Sequence ID: UZA61425.1 Length: 351
+Range 1: 1 to 345
+
+Score:647 bits(1668), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:311/345(90%), Positives:328/345(95%), Gaps:0/345(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRE+TSLW R   WITS +NRLYIGWFGV+MIPTLLTA SVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRENTSLWARCAQWITSIDNRLYIGWFGVIMIPTLLTAISVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNII+GAIIPTS AIGLHFYPIWEAA++DEWLYNGGPY+LIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIITGAIIPTSNAIGLHFYPIWEAATIDEWLYNGGPYQLIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGV CYMGREWELS+RLGMRPWIAVAYSAPVAAA AVFL+YPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVCCYMGREWELSYRLGMRPWIAVAYSAPVAAAMAVFLVYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHM GVAGVFGGSLFSAMHGSLV+SSLIRET+ENESAN GYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMFGVAGVFGGSLFSAMHGSLVSSSLIRETSENESANAGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            Q+ ETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLA WPV  IW TALG+STMAFNLNG 
+Sbjct  241  QDNETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAVWPVCCIWLTALGLSTMAFNLNGL  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA  345
+            NFNQSVVD++GRV+NTWAD+INRANLGMEVMHERNAHNFPLDLAA
+Sbjct  301  NFNQSVVDAEGRVLNTWADVINRANLGMEVMHERNAHNFPLDLAA  345
+
+
+
+
+>photosystem II q(b) protein [Nostoc sp. C117]
+Sequence ID: WP_392531245.1 Length: 360
+Range 1: 1 to 360
+
+Score:646 bits(1667), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:306/360(85%), Positives:333/360(92%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  L+RR   ++W RFC WITSTENR+Y+GWFGVLMIPTLL AT  F IAFIAAPPVDI
+Sbjct  1    MTTTLQRRSGANVWDRFCEWITSTENRIYVGWFGVLMIPTLLAATVCFTIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSL+YGNNIISGA++P+S AIGLHFYPIWEAAS+DEWLYNGGPY+L++ HFL
+Sbjct  61   DGIREPVAGSLIYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVIFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +G ACY+GR+WELS+RLGMRPWI VAYSAP+A+ATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGCACYLGRQWELSYRLGMRPWICVAYSAPLASATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSL+RETTE ES N GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTETESQNYGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALG+STMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGVSTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA-------ALEVPSLNG  353
+            NFNQSV+DSQGRVINTWAD+INRANLGMEVMHERNAHNFPLDLA       AL  P++NG
+Sbjct  301  NFNQSVIDSQGRVINTWADVINRANLGMEVMHERNAHNFPLDLAAGDVAPVALTAPAING  360
+
+
+
+
+>photosystem II q(b) protein [Anabaena sphaerica]
+Sequence ID: WP_190560342.1 Length: 360
+Range 1: 1 to 360
+
+Score:646 bits(1667), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:306/360(85%), Positives:336/360(93%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  +++R + ++W RFC WITSTENR+YIGWFGVLMIPTLL AT+ FIIAFIAAPPVDI
+Sbjct  1    MTTTIQQRSTANVWDRFCEWITSTENRIYIGWFGVLMIPTLLAATTCFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSL+YGNNIISGA++P+S AIGLHFYPIWEAAS+DEWLYNGGPY+L++ HFL
+Sbjct  61   DGIREPVAGSLIYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVIFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +G ACY+GR+WELS+RLGMRPWI VAYSAP+A+ATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGCACYLGRQWELSYRLGMRPWICVAYSAPLASATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSL+RETTE ES N GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTETESQNYGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEV-------PSLNG  353
+            NFNQS++DSQGRVI TWAD+INRANLGMEVMHERNAHNFPLDLAA EV       P++NG
+Sbjct  301  NFNQSIIDSQGRVIGTWADVINRANLGMEVMHERNAHNFPLDLAAGEVAPVALTAPAING  360
+
+
+
+
+>photosystem II protein D1 [Cyanidioschyzon merolae strain 10D]
+Sequence ID: NP_848970.1 Length: 360
+Range 1: 1 to 348
+
+Score:646 bits(1667), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:311/348(89%), Positives:330/348(94%), Gaps:0/348(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA L+RR S +LW RFC WITSTENRLYIGWFGVLMIP LLTAT VFIIAF+AAPPVDI
+Sbjct  1    MTATLQRRASANLWERFCAWITSTENRLYIGWFGVLMIPCLLTATCVFIIAFVAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSL YGNNII+GA++PTS AIGLHFYPIWEAASVDEWLYNGGPY+LIVLHFL
+Sbjct  61   DGIREPVSGSLFYGNNIITGAVVPTSNAIGLHFYPIWEAASVDEWLYNGGPYQLIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +GVA YMGREWELS+RLGMRPWI VA+SAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGVASYMGREWELSYRLGMRPWICVAFSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFM+VFQAEHNILMHPFHM GVAGVFGG+LFSAMHGSLVTSSLIRET+ENES N GY+FG
+Sbjct  181  NFMLVFQAEHNILMHPFHMAGVAGVFGGALFSAMHGSLVTSSLIRETSENESLNNGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFL AWPVVGIW TA+GISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVVGIWLTAIGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEV  348
+            NFNQSVVDS+GRVINTWADI+NRANLG+EVMHERNAHNFPLDLA+  V
+Sbjct  301  NFNQSVVDSEGRVINTWADILNRANLGIEVMHERNAHNFPLDLASNSV  348
+
+
+
+
+>photosystem II protein D1 [Cyanidium caldarium]
+Sequence ID: NP_045067.1 Length: 360
+Range 1: 1 to 344
+
+Score:646 bits(1667), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:310/344(90%), Positives:328/344(95%), Gaps:0/344(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  LERRESTSLW RFC+WITSTENRLYIGWFGVLMIP LLTAT+VFIIAFIAAPPVDI
+Sbjct  1    MTVTLERRESTSLWERFCSWITSTENRLYIGWFGVLMIPCLLTATTVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNII+GA++PTS AIGLH YPIWEAAS+DEWLYNGGPY+L+VLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIITGAVVPTSNAIGLHLYPIWEAASLDEWLYNGGPYQLVVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVA YMGREWELS+RLGMRPWI VA+SAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVAAYMGREWELSYRLGMRPWICVAFSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFM+VFQAEHNILMHPFHM GVAGVFGG+LFSAMHGSLVTSSLIRETTENES N GY+ G
+Sbjct  181  NFMLVFQAEHNILMHPFHMAGVAGVFGGALFSAMHGSLVTSSLIRETTENESPNYGYKLG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSR+LHFFL  WPVVGIW T++GISTMAFNLNG 
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRALHFFLGLWPVVGIWLTSIGISTMAFNLNGL  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA  344
+            NFNQS+VDSQGRVINTWADIINRANLG+EVMHERNAHNFPLDLA
+Sbjct  301  NFNQSIVDSQGRVINTWADIINRANLGIEVMHERNAHNFPLDLA  344
+
+
+
+
+>photosystem II q(b) protein [Microcoleus sp. B4-D4]
+Sequence ID: WP_333384322.1 Length: 360
+Range 1: 1 to 360
+
+Score:646 bits(1666), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:306/360(85%), Positives:335/360(93%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA L++RES +LW +FCNW+TST+NR+Y+GWFGVLMIPTLLTAT  +I AFIAAPPVDI
+Sbjct  1    MTATLQQRESANLWDQFCNWVTSTDNRIYVGWFGVLMIPTLLTATICYITAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSL++GNNII+GA++P+S AIGLHFYPIWEAAS+DEWLYNGGPY+L+V HFL
+Sbjct  61   DGIREPVAGSLMFGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +G+ CYMGREWELS+RLGMRPWI VAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGIFCYMGREWELSYRLGMRPWICVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSL+RETTE ES N GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTETESQNYGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHF L AWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFLLGAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEV-------PSLNG  353
+            NFNQS++DSQGR INTWAD+INRANLGMEVMHERNAHNFPLDLAA +        PS+NG
+Sbjct  301  NFNQSIIDSQGRGINTWADVINRANLGMEVMHERNAHNFPLDLAAAQTTPVAMVAPSING  360
+
+
+
+
+>photosystem II DI subunit, Q(B) protein [Cylindrospermum stagnale PCC 7417]
+Sequence ID: AFZ27688.1 Length: 415
+Range 1: 56 to 415
+
+Score:645 bits(1663), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:303/360(84%), Positives:333/360(92%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  L++R S ++W RFC WITSTENR+YIGWFGVLMIPTLL AT+ FIIAFIAAPPVDI
+Sbjct  56   MTTTLQQRSSANVWDRFCEWITSTENRIYIGWFGVLMIPTLLAATTCFIIAFIAAPPVDI  115
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSL+YGNNIISGA++P+S AIGLHFYPIWEAAS+DEWLYNGGPY+L++ HFL
+Sbjct  116  DGIREPVAGSLIYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVIFHFL  175
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +G ACY+GR+WELS+RLGMRPWI VAYSAP+A+ATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  176  IGCACYLGRQWELSYRLGMRPWICVAYSAPLASATAVFLIYPIGQGSFSDGMPLGISGTF  235
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSL+RETTE ES N GY+FG
+Sbjct  236  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTETESLNYGYKFG  295
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSR LHF LAAWPV+GIWFTALG+STMAFNLNGF
+Sbjct  296  QEEETYNIVAAHGYFGRLIFQYASFNNSRQLHFLLAAWPVIGIWFTALGVSTMAFNLNGF  355
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA-------ALEVPSLNG  353
+            NFNQS++DSQGRVI TWAD+INRANLGMEVMHERNAHNFPLDLA       AL  P++NG
+Sbjct  356  NFNQSIIDSQGRVIGTWADVINRANLGMEVMHERNAHNFPLDLAAGDVAPVALTAPAING  415
+
+
+
+
+>photosystem II q(b) protein [Thermostichales cyanobacterium SRBZ-1_bins_19]
+Sequence ID: MEN9245833.1 Length: 354
+Range 1: 1 to 354
+
+Score:644 bits(1661), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:304/354(86%), Positives:334/354(94%), Gaps:1/354(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  L+RRES SLW RFCNW+TST+NRLY+GWFGV+MIPTLL AT  F+IAFIAAPPVDI
+Sbjct  1    MTTTLQRRESASLWERFCNWVTSTDNRLYVGWFGVIMIPTLLAATICFVIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNII+GA++P+S AIGLHFYPIWEAAS+DEWLYNGGPY+LI+ HFL
+Sbjct  61   DGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLIIFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LG +CYMGR+WELS+RLGMRPWI VAYSAP+A+A AVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGASCYMGRQWELSYRLGMRPWICVAYSAPLASAFAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGG+LFSAMHGSLVTSSLIRET+E ES N GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGALFSAMHGSLVTSSLIRETSEEESQNAGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALG+S MAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGVSIMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE-VPSLNG  353
+            NFNQS+VD+ GR++ TWAD+INRANLGMEVMHERNAHNFPLDLAA+E  P++NG
+Sbjct  301  NFNQSIVDNNGRMVATWADVINRANLGMEVMHERNAHNFPLDLAAVESAPAING  354
+
+
+
+
+>photosystem II protein D1 [Guillardia theta]
+Sequence ID: NP_050699.1 Length: 360
+Range 1: 1 to 347
+
+Score:644 bits(1660), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:310/347(89%), Positives:334/347(96%), Gaps:0/347(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA LERRES SLW RFC+WITSTENRLYIGWFGVLMIPTLLTAT+VFIIAFIAAPPVDI
+Sbjct  1    MTATLERRESASLWERFCSWITSTENRLYIGWFGVLMIPTLLTATTVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSLLYGNNII+GA+IP+SA+IG+HFYPIWEAAS+DEWLYNGGPY+LIV HFL
+Sbjct  61   DGIREPVAGSLLYGNNIITGAVIPSSASIGIHFYPIWEAASLDEWLYNGGPYQLIVDHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGV  ++GREWE S+RLGMRPWI+VA++APVAAA+AVFL+YPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVCGWIGREWEFSYRLGMRPWISVAFTAPVAAASAVFLVYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFM+VFQAEHNILMHPFH LGVAGVFGGSLFSAMHGSLVTSSLIRETTENESAN GY+FG
+Sbjct  181  NFMLVFQAEHNILMHPFHQLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANYGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSR+LHFFL  WPVVGIWFTALGI TMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRALHFFLGLWPVVGIWFTALGIMTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            NFNQSVVDSQGRVINTWADI+NRANLG+EVMHERNAHNFPLDLA+ E
+Sbjct  301  NFNQSVVDSQGRVINTWADILNRANLGIEVMHERNAHNFPLDLASGE  347
+
+
+
+
+>PsbA, partial [Metteniusa tessmanniana]
+Sequence ID: ALI90494.1 Length: 317
+Range 1: 1 to 317
+
+Score:642 bits(1655), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:317/317(100%), Positives:317/317(100%), Gaps:0/317(0%)
+
+Query  13   LWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLL  72
+            LWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLL
+Sbjct  1    LWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLL  60
+
+Query  73   YGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWE  132
+            YGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWE
+Sbjct  61   YGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWE  120
+
+Query  133  LSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNI  192
+            LSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNI
+Sbjct  121  LSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNI  180
+
+Query  193  LMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAH  252
+            LMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAH
+Sbjct  181  LMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAH  240
+
+Query  253  GYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGR  312
+            GYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGR
+Sbjct  241  GYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGR  300
+
+Query  313  VINTWADIINRANLGME  329
+            VINTWADIINRANLGME
+Sbjct  301  VINTWADIINRANLGME  317
+
+
+
+
+>hypothetical protein RYX36_018211 [Vicia faba]
+Sequence ID: KAL5067324.1 Length: 596
+Range 1: 262 to 596
+
+Score:641 bits(1653), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:316/335(94%), Positives:320/335(95%), Gaps:0/335(0%)
+
+Query  19   NWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNII  78
+            N IT+TENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGI EPVSGSLLYGNNII
+Sbjct  262  NKITNTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGICEPVSGSLLYGNNII  321
+
+Query  79   SGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLG  138
+            SGAIIPTSAAI LHFY IWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSF LG
+Sbjct  322  SGAIIPTSAAISLHFYLIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFLLG  381
+
+Query  139  MRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFH  198
+            MRPWIAVAYSAPVAAAT VFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMH FH
+Sbjct  382  MRPWIAVAYSAPVAAATVVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHLFH  441
+
+Query  199  MLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRL  258
+            MLGVAGVFG SLFS MHGSLV+SSLIRET ENESANEGYRFGQEEETYNIVAAH YFGRL
+Sbjct  442  MLGVAGVFGSSLFSVMHGSLVSSSLIRETIENESANEGYRFGQEEETYNIVAAHSYFGRL  501
+
+Query  259  IFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWA  318
+            IFQYASFNNSRSLHFFLAAWPVVGIWFTALGIS MAFNLNGFNFNQSVVDSQGRVINTWA
+Sbjct  502  IFQYASFNNSRSLHFFLAAWPVVGIWFTALGISAMAFNLNGFNFNQSVVDSQGRVINTWA  561
+
+Query  319  DIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+             II RANLGMEVMHERNAHNFPLDLAA+E PS+NG
+Sbjct  562  GIITRANLGMEVMHERNAHNFPLDLAAVEAPSING  596
+
+
+
+
+>photosystem II q(b) protein [Phormidesmis priestleyi]
+Sequence ID: WP_073070541.1 Length: 360
+Range 1: 1 to 360
+
+Score:640 bits(1652), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:303/360(84%), Positives:333/360(92%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            M   L+RRE  ++W RFCNWITST+NR+Y+GWFGVLMIPTLL+AT  FIIAFIAAPPVDI
+Sbjct  1    MATTLQRREEGNVWDRFCNWITSTDNRIYVGWFGVLMIPTLLSATICFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSL+YGNNII+GAI+P+S AIGLHFYPIWEAAS+DEWLYNGGPY+L+VLHFL
+Sbjct  61   DGIREPVSGSLMYGNNIITGAIVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LG+  YMGR+WELS+RLGMRPWI VAYSAPV+AATAV LIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGILSYMGRQWELSYRLGMRPWICVAYSAPVSAATAVLLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGG+LFSAMHGSLVTSSL+RETTENES N GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGALFSAMHGSLVTSSLVRETTENESQNAGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHF L AWPV+GIW TALG+STMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFTLGAWPVIGIWLTALGVSTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA-------ALEVPSLNG  353
+            NFNQS++DSQGRV+NTWAD+INRANLGMEVMHERNAHNFPLDLA       AL+ P++ G
+Sbjct  301  NFNQSILDSQGRVVNTWADVINRANLGMEVMHERNAHNFPLDLASGDASPVALQAPAIQG  360
+
+
+
+
+>photosystem II q(b) protein [Pseudanabaena sp. UWO311]
+Sequence ID: WP_142657310.1 Length: 360
+Range 1: 1 to 347
+
+Score:639 bits(1649), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:299/347(86%), Positives:329/347(94%), Gaps:0/347(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  ++RRES SLW +FCNWITST+NRLY+GWFGV+MIP LL AT+ F+IAF+ APPVDI
+Sbjct  1    MTTAVQRRESASLWDQFCNWITSTDNRLYVGWFGVIMIPCLLAATTCFVIAFVGAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSLL+GNN+ISGA++P+S AIGLHFYPIWEA S+DEWLYNGGPY+L+V HFL
+Sbjct  61   DGIREPVAGSLLFGNNMISGAVVPSSNAIGLHFYPIWEADSLDEWLYNGGPYQLVVFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +G+ CYMGREWELS+RLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGIFCYMGREWELSYRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENES N GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESQNSGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASF+NSR LHFFLA WPVVGIWFTALG+STMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFSNSRQLHFFLALWPVVGIWFTALGVSTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE  347
+            NFNQS+ DSQGRV+ +WAD+INRANLGMEVMHERNAHNFPLDLAA++
+Sbjct  301  NFNQSISDSQGRVVPSWADVINRANLGMEVMHERNAHNFPLDLAAVD  347
+
+
+
+
+>hypothetical protein LXL04_039967 [Taraxacum kok-saghyz]
+Sequence ID: KAL4553934.1 Length: 965
+Range 1: 477 to 795
+
+Score:639 bits(1647), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:313/327(96%), Positives:316/327(96%), Gaps:8/327(2%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            +++I  RRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  477  VSSISRRRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  536
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIIS        AIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  537  DGIREPVSGSLLYGNNIIS--------AIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  588
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  589  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  648
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  649  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  708
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  709  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  768
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLG  327
+            NFNQSVVDSQGRVINTWADIINRANLG
+Sbjct  769  NFNQSVVDSQGRVINTWADIINRANLG  795
+
+
+
+
+>photosystem II q(b) protein [Microcystis sp.]
+Sequence ID: WP_409828001.1 Length: 360
+Range 1: 1 to 360
+
+Score:637 bits(1644), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:304/360(84%), Positives:332/360(92%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  L++RES SLW +FC WITST NRLYIGWFGV+MIPTLLTAT+ FIIAFIAAPPVDI
+Sbjct  1    MTTTLQQRESASLWEQFCQWITSTNNRLYIGWFGVIMIPTLLTATTCFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSLLYGNNIISGA++P+S AIGLHFYPIWEAAS+DEWLYNGGPY+L++ HFL
+Sbjct  61   DGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVIFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGV CY+GR+WELSFRLGMRPWI VAYSAPV+AATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVFCYLGRQWELSFRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFM VFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSL+RETTE ES N GY+ G
+Sbjct  181  NFMFVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTEIESQNYGYKVG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFL AWPV+GIWFTA+G+STMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVIGIWFTAMGVSTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA-------ALEVPSLNG  353
+            NFNQS++DSQGRVI TWAD++NRA +GMEVMHERNAHNFPLDLA       AL  P++NG
+Sbjct  301  NFNQSILDSQGRVIGTWADVLNRAGIGMEVMHERNAHNFPLDLASGEQAPVALIAPAING  360
+
+
+
+
+>hypothetical protein [Adiantum nelumboides]
+Sequence ID: MCO5559881.1 Length: 317
+Range 1: 1 to 317
+
+Score:637 bits(1643), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:315/317(99%), Positives:317/317(100%), Gaps:0/317(0%)
+
+Query  37   MIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPI  96
+            MIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPI
+Sbjct  1    MIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPI  60
+
+Query  97   WEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATA  156
+            WEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATA
+Sbjct  61   WEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATA  120
+
+Query  157  VFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHG  216
+            VFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHG
+Sbjct  121  VFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHG  180
+
+Query  217  SLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLA  276
+            SLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLA
+Sbjct  181  SLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLA  240
+
+Query  277  AWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNA  336
+            AWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNA
+Sbjct  241  AWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNA  300
+
+Query  337  HNFPLDLAALEVPSLNG  353
+            HNFPLDLAA+EVPS+NG
+Sbjct  301  HNFPLDLAAVEVPSING  317
+
+
+
+
+>hypothetical protein PR202_gb03392 [Eleusine coracana subsp. coracana]
+Sequence ID: GJN16407.1 Length: 317
+Range 1: 1 to 317
+
+Score:637 bits(1643), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:315/317(99%), Positives:316/317(99%), Gaps:0/317(0%)
+
+Query  37   MIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPI  96
+            MIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPI
+Sbjct  1    MIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPI  60
+
+Query  97   WEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATA  156
+            WEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATA
+Sbjct  61   WEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATA  120
+
+Query  157  VFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHG  216
+            VFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHG
+Sbjct  121  VFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHG  180
+
+Query  217  SLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLA  276
+            SLVTSSLIRETTENESANEGY+FGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLA
+Sbjct  181  SLVTSSLIRETTENESANEGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLA  240
+
+Query  277  AWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNA  336
+            AWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNA
+Sbjct  241  AWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHERNA  300
+
+Query  337  HNFPLDLAALEVPSLNG  353
+            HNFPLDLAALE PSLNG
+Sbjct  301  HNFPLDLAALEAPSLNG  317
+
+
+
+
+>RecName: Full=Photosystem II protein D1; Short=PSII D1 protein; AltName: Full=Photosystem II Q(B) protein; Flags: Precursor [Galdieria sulphuraria]
+Sequence ID: P24725.1 Length: 360
+Range 1: 1 to 345
+
+Score:637 bits(1642), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:308/345(89%), Positives:327/345(94%), Gaps:0/345(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA LERR++ SLW RFC+WITSTENRLYIGWFGVLMIPTLLTATSVFII FIAAPPVDI
+Sbjct  1    MTATLERRQTASLWERFCSWITSTENRLYIGWFGVLMIPTLLTATSVFIIGFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREP   SLLYGNNII+GAI+PTS AIG+HFYPIWEAAS+DEWLYNGGPYELIVLHF 
+Sbjct  61   DGIREPGFRSLLYGNNIITGAIVPTSNAIGIHFYPIWEAASLDEWLYNGGPYELIVLHFF  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +G+  YMGREWELS+RLGMRPWIAVA+SAPVAAATAVF+IYPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGICAYMGREWELSYRLGMRPWIAVAFSAPVAAATAVFIIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFM+VFQAEHNILMHPFHM+GVAGVFGGSLFSAMHGSLVTSSLIRE TENESAN GY+FG
+Sbjct  181  NFMLVFQAEHNILMHPFHMMGVAGVFGGSLFSAMHGSLVTSSLIRERTENESANNGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QE ETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLA WPVV I  TALG+STMAFNLNGF
+Sbjct  241  QEYETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLALWPVVCICVTALGVSTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA  345
+            NFNQSVVDSQGRVINTWADI+NRANLG+EVMHERNAHNFPLDLA+
+Sbjct  301  NFNQSVVDSQGRVINTWADILNRANLGIEVMHERNAHNFPLDLAS  345
+
+
+
+
+>photosystem II q(b) protein [Fischerella sp. JS2]
+Sequence ID: WP_315790630.1 Length: 360
+Range 1: 1 to 360
+
+Score:636 bits(1640), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:307/360(85%), Positives:331/360(91%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  L R ES SLW RFC WITST NRLY+GWFGVLMIPTLLTAT  FIIAFIAAPPVDI
+Sbjct  1    MTTTLTRGESGSLWDRFCEWITSTNNRLYVGWFGVLMIPTLLTATICFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAI+PTS AIGLHFYPIWEA+S+DEWLYNGGPYELIV HFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIVPTSNAIGLHFYPIWEASSLDEWLYNGGPYELIVFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +G+ C+MGR+WELS+RLGMRPWI VAYSAPVAAAT+VFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGIFCWMGRQWELSYRLGMRPWICVAYSAPVAAATSVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFM+VFQAEHNILMHPFH LGVAGVFGGSLF AMHGSLVTSSL+RETTENES N GY+FG
+Sbjct  181  NFMLVFQAEHNILMHPFHQLGVAGVFGGSLFCAMHGSLVTSSLVRETTENESVNYGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QE+ETYNIVAAHGYFGRLI+QYASFNNSRSLHFFLAAWPVV IWFTALGISTMAFNLNGF
+Sbjct  241  QEQETYNIVAAHGYFGRLIWQYASFNNSRSLHFFLAAWPVVCIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA-------ALEVPSLNG  353
+            NFNQS++DS GR++NTWADI+NRANLGMEVMHERNAHNFPLDLA       A+  P+++G
+Sbjct  301  NFNQSILDSHGRIVNTWADILNRANLGMEVMHERNAHNFPLDLASGEAVPVAMNAPAIHG  360
+
+
+
+
+>photosystem II protein D1 [Camellia perpetua]
+Sequence ID: YP_010049313.1 Length: 367
+Range 1: 1 to 316
+
+Score:636 bits(1640), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:315/316(99%), Positives:315/316(99%), Gaps:0/316(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINT  316
+            NFNQSVVDSQGRVINT
+Sbjct  301  NFNQSVVDSQGRVINT  316
+
+
+
+
+>hypothetical protein CASLAS_043096 [Castilleja lassenensis]
+Sequence ID: KAN8639252.1 Length: 334
+Range 1: 1 to 332
+
+Score:635 bits(1639), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:323/350(92%), Positives:325/350(92%), Gaps:18/350(5%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELI   F 
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELI---FP  117
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+             G A                 WIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  118  SGYAA---------------SWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  162
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  163  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  222
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  223  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  282
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPS  350
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAA+E P+
+Sbjct  283  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAAIEAPT  332
+
+
+
+
+>photosystem II q(b) protein [Oscillatoria sp. FACHB-1407]
+Sequence ID: WP_190509504.1 Length: 360
+Range 1: 1 to 360
+
+Score:635 bits(1638), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:302/360(84%), Positives:328/360(91%), Gaps:7/360(1%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MT  L+RRES S W RFCNW+TST+NR+Y+GWFGVLMIPTLL AT  FIIAF+AAPPVDI
+Sbjct  1    MTTTLQRRESASAWERFCNWVTSTDNRIYVGWFGVLMIPTLLAATICFIIAFVAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGA++P+S AIGLH YPIWEAAS+DEWLYNGGPY+L+  HFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAVVPSSNAIGLHLYPIWEAASLDEWLYNGGPYQLVCFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +G+  YMGR+WELS+RLGMRPWI VAYSAP+AAAT+VFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGIFAYMGRQWELSYRLGMRPWICVAYSAPLAAATSVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFM VFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSL+RETTE ES N GY+FG
+Sbjct  181  NFMFVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTETESQNYGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFL AWPVV IWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVVCIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLA-------ALEVPSLNG  353
+            NFNQSV+DSQGRV++TWAD++NRANLGMEVMHERNAHNFPLDLA       A   P +NG
+Sbjct  301  NFNQSVLDSQGRVVSTWADVLNRANLGMEVMHERNAHNFPLDLASGEATPVAFTAPQING  360
+
+
+
+
+>photosystem II protein D1, partial [Davidia involucrata]
+Sequence ID: ADM92692.1 Length: 319
+Range 1: 1 to 319
+
+Score:635 bits(1637), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:314/319(98%), Positives:316/319(99%), Gaps:0/319(0%)
+
+Query  35   VLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFY  94
+            VLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFY
+Sbjct  1    VLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFY  60
+
+Query  95   PIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAA  154
+            PIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAA
+Sbjct  61   PIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIAVAYSAPVAAA  120
+
+Query  155  TAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAM  214
+             AVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAM
+Sbjct  121  AAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAM  180
+
+Query  215  HGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFF  274
+            HGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFF
+Sbjct  181  HGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFF  240
+
+Query  275  LAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHER  334
+            LAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHER
+Sbjct  241  LAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRANLGMEVMHER  300
+
+Query  335  NAHNFPLDLAALEVPSLNG  353
+            NAHNFPLDLAA+E P+ NG
+Sbjct  301  NAHNFPLDLAAIEAPATNG  319
+
+
+
+
+>hypothetical protein ACJX0J_000317 [Zea mays]
+Sequence ID: KAL5646186.1 Length: 737
+Range 1: 1 to 312
+
+Score:634 bits(1636), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:311/312(99%), Positives:312/312(100%), Gaps:0/312(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGR  312
+            NFNQSVVDSQGR
+Sbjct  301  NFNQSVVDSQGR  312
+
+
+
+
+>Photosystem II protein D1, partial [Melia azedarach]
+Sequence ID: KAJ4699412.1 Length: 316
+Range 1: 1 to 316
+
+Score:634 bits(1635), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:314/316(99%), Positives:314/316(99%), Gaps:0/316(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES  LWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESERLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINT  316
+            NFNQSVVDSQGRVINT
+Sbjct  301  NFNQSVVDSQGRVINT  316
+
+
+
+
+>photosystem II protein D1 [Fagopyrum cymosum]
+Sequence ID: AKJ77622.1 Length: 339
+Range 1: 1 to 315
+
+Score:634 bits(1635), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:313/315(99%), Positives:313/315(99%), Gaps:0/315(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVIN  315
+            NFNQSVVDSQGRVI 
+Sbjct  301  NFNQSVVDSQGRVIT  315
+
+
+
+
+>Photosystem II protein D1 [Capsicum baccatum]
+Sequence ID: PHT28653.1 Length: 353
+Range 1: 1 to 353
+
+Score:633 bits(1633), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:309/353(88%), Positives:328/353(92%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERR+S SLWGRFC WITST+N LYIGWFGVLMIPTLLTAT VFII+FIAA PVDI
+Sbjct  1    MTAILERRKSESLWGRFCKWITSTKNHLYIGWFGVLMIPTLLTATYVFIISFIAALPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+             GIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWE  S+ EWLYNGGPYELI+LHFL
+Sbjct  61   GGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEVESIYEWLYNGGPYELIILHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREW+LSF LGMRPWI VAYS+PVA  TAV LIYPIGQGSFS+GMPLGISGT 
+Sbjct  121  LGVACYMGREWDLSFHLGMRPWIVVAYSSPVATTTAVLLIYPIGQGSFSNGMPLGISGTS  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMI+FQA++NILMHPFHMLG+A VFGGSLFSAMHGSLVTSSLI E TENE +NEGYRFG
+Sbjct  181  NFMILFQAKNNILMHPFHMLGIADVFGGSLFSAMHGSLVTSSLIWEITENEYSNEGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNI+AAHG+ GRLIFQ+ASFNNSRSLHFFLAAWP+VGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIIAAHGFSGRLIFQHASFNNSRSLHFFLAAWPLVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQG VINTWADIINRANLGMEVMHERNAH FP DLAA+E P +NG
+Sbjct  301  NFNQSVVDSQGHVINTWADIINRANLGMEVMHERNAHKFPRDLAAIETPPING  353
+
+
+
+
+>hypothetical protein SAY87_028498 [Trapa incisa]
+Sequence ID: KAK4773479.1 Length: 651
+Range 1: 324 to 641
+
+Score:633 bits(1632), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:308/320(96%), Positives:310/320(96%), Gaps:2/320(0%)
+
+Query  6    ERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIRE  65
+            ERRES SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIRE
+Sbjct  324  ERRESESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIRE  383
+
+Query  66   PVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVAC  125
+            PVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNG PYELIVLHFLLGVAC
+Sbjct  384  PVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGDPYELIVLHFLLGVAC  443
+
+Query  126  YMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIV  185
+            YMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIV
+Sbjct  444  YMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIV  503
+
+Query  186  FQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEET  245
+            FQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTS+LIRETTENESANEGYRFGQEEET
+Sbjct  504  FQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSTLIRETTENESANEGYRFGQEEET  563
+
+Query  246  YNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQS  305
+            YNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQS
+Sbjct  564  YNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQS  623
+
+Query  306  VVDSQGRVINTWADIINRAN  325
+            VVDSQGRV   W  I+  A 
+Sbjct  624  VVDSQGRV--EWTIILYDAK  641
+
+
+
+
+>photosystem I reaction center subunit IX [Nostoc linckia z7]
+Sequence ID: PHJ92508.1 Length: 394
+Range 1: 1 to 394
+
+Score:633 bits(1632), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:308/394(78%), Positives:339/394(86%), Gaps:41/394(10%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA +++R+S ++WGRF NWITST NRLYIGWFGVLMIPTLL AT+ F+IAFIAAPPVDI
+Sbjct  1    MTATIQQRQSANVWGRFANWITSTNNRLYIGWFGVLMIPTLLAATACFVIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSLLYGNNIISGA++P+S AIGLHFYPIWEAAS+DEWLYNGGPY+L++ HFL
+Sbjct  61   DGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVIFHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +GV CY+GREWELS+RLGMRPWI +A+SAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGVFCYLGREWELSYRLGMRPWICLAFSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSL+RETTE+ES N GY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTESESQNYGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPV+GIWFTALG+STMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVIGIWFTALGVSTMAFNLNGF  300
+
+Query  301  NFN----------------------------------QSVVDSQGRVINTWADIINRANL  326
+            NFN                                  QS++DSQGRVINTWADIINRANL
+Sbjct  301  NFNQSIIDSQGRVINTWADIINRANLGXFNLNGFNFNQSIIDSQGRVINTWADIINRANL  360
+
+Query  327  GMEVMHERNAHNFPLDLA-------ALEVPSLNG  353
+            GMEVMHERNAHNFPLDLA       A+  P++NG
+Sbjct  361  GMEVMHERNAHNFPLDLASAEAAPVAISAPAING  394
+
+
+
+
+>unnamed protein product [Victoria cruziana]
+Sequence ID: CAN6446880.1 Length: 353
+Range 1: 1 to 353
+
+Score:633 bits(1632), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:309/353(88%), Positives:324/353(91%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERR+STSLWG FCN +TSTEN LYIGWF  LMIP LLTATSVF+IAFI APPVDI
+Sbjct  1    MTAILERRKSTSLWGSFCNLVTSTENHLYIGWFSALMIPNLLTATSVFVIAFITAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREP+SG LLY NNIISGAIIPT AAIGLHFYPIWEA+SV+EWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPISGFLLYENNIISGAIIPTFAAIGLHFYPIWEASSVNEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVACYMGREWELSF LG+RPWI VAYSAPVAAAT VFLIY IGQGSFSDGMPLGISGTF
+Sbjct  121  LGVACYMGREWELSFCLGIRPWIVVAYSAPVAAATTVFLIYSIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVT SLIRETT+NESANEGYRFG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTYSLIRETTKNESANEGYRFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEE  YNIVAAHGYF +LIFQYASFNNS SLHFFL AWPVV IWFT LGIST+AFNLNGF
+Sbjct  241  QEEGAYNIVAAHGYFDQLIFQYASFNNSHSLHFFLTAWPVVRIWFTTLGISTIAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQS+VDSQGRVINTWADIINRAN  MEVMHE NA NFP++L A++ PS NG
+Sbjct  301  NFNQSIVDSQGRVINTWADIINRANFSMEVMHECNAQNFPVNLVAVKAPSTNG  353
+
+
+
+
+>hypothetical protein M9H77_09773 [Catharanthus roseus]
+Sequence ID: KAI5678823.1 Length: 346
+Range 1: 1 to 346
+
+Score:633 bits(1632), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:322/364(88%), Positives:327/364(89%), Gaps:29/364(7%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERR+S SLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI
+Sbjct  1    MTAILERRKSESLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPVSGSLLYGNNIIS                  EAASVDEWLYNGGPYELIVLHFL
+Sbjct  61   DGIREPVSGSLLYGNNIIS------------------EAASVDEWLYNGGPYELIVLHFL  102
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            LGVA YMGREW+LSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSF D MPLGISGTF
+Sbjct  103  LGVARYMGREWDLSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFFDSMPLGISGTF  162
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENES NEGYRFG
+Sbjct  163  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESTNEGYRFG  222
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  223  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  282
+
+Query  301  NFNQSVVDSQGRVINTWADIINRA-----------NLGMEVMHERNAHNFPLDLAALEVP  349
+            NFNQSVVDSQGRVINTWADIIN             +LGMEVMHERNAHNFPLDLAA+EV 
+Sbjct  283  NFNQSVVDSQGRVINTWADIINHRKHKIVFPTGNFHLGMEVMHERNAHNFPLDLAAIEVS  342
+
+Query  350  SLNG  353
+            S+NG
+Sbjct  343  SING  346
+
+
+
+
+>photosystem II q(b) protein [Gloeomargarita lithophora]
+Sequence ID: WP_071454083.1 Length: 356
+Range 1: 1 to 356
+
+Score:632 bits(1631), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:315/356(88%), Positives:340/356(95%), Gaps:3/356(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTA LERR S S+W +FC W+TST+NRLYIGWFGVLMIPTLLTAT+ FIIAFIAAPPVDI
+Sbjct  1    MTATLERRSSVSIWEQFCQWVTSTDNRLYIGWFGVLMIPTLLTATTCFIIAFIAAPPVDI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGIREPV+GSLLYGNNII+GA++P+S AIG+HFYPIWEAAS+DEWLYNGGPY+L+VLHFL
+Sbjct  61   DGIREPVAGSLLYGNNIITGAVVPSSNAIGMHFYPIWEAASLDEWLYNGGPYQLVVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            +GV CYMGREWELS+RLGMRPWI VAYSAPVAAA+AVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  IGVFCYMGREWELSYRLGMRPWICVAYSAPVAAASAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFM+VFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRET+ENES N GY+FG
+Sbjct  181  NFMLVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETSENESQNYGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFT+LG+STMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTSLGVSTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALE---VPSLNG  353
+            NFNQSVVDSQGRVINTWAD+INRANLGMEVMHERNAHNFPLDLAA E    P++NG
+Sbjct  301  NFNQSVVDSQGRVINTWADVINRANLGMEVMHERNAHNFPLDLAAGEPVSAPAING  356
+
+
+
+
+>photosystem II protein D1, partial [Populus alba]
+Sequence ID: AAM12551.1 Length: 314
+Range 1: 1 to 314
+
+Score:632 bits(1631), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:313/314(99%), Positives:313/314(99%), Gaps:0/314(0%)
+
+Query  25   ENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISGAIIP  84
+            ENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISGAIIP
+Sbjct  1    ENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDIDGIREPVSGSLLYGNNIISGAIIP  60
+
+Query  85   TSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIA  144
+            TSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIA
+Sbjct  61   TSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFLLGVACYMGREWELSFRLGMRPWIA  120
+
+Query  145  VAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAG  204
+            VAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAG
+Sbjct  121  VAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAG  180
+
+Query  205  VFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQYAS  264
+            VFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQYAS
+Sbjct  181  VFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFGQEEETYNIVAAHGYFGRLIFQYAS  240
+
+Query  265  FNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRA  324
+            FNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRA
+Sbjct  241  FNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGFNFNQSVVDSQGRVINTWADIINRA  300
+
+Query  325  NLGMEVMHERNAHN  338
+            NLGMEVMHERN HN
+Sbjct  301  NLGMEVMHERNPHN  314
+
+
+
+
+>photosystem II protein D1 [Paspalum setaceum]
+Sequence ID: QYC37456.1 Length: 353
+Range 1: 1 to 353
+
+Score:632 bits(1630), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:318/353(90%), Positives:323/353(91%), Gaps:0/353(0%)
+
+Query  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVDI  60
+            MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPV+I
+Sbjct  1    MTAILERRESTSLWGRFCNWITSTENRLYIGWFGVLMIPTLLTATSVFIIAFIAAPPVNI  60
+
+Query  61   DGIREPVSGSLLYGNNIISGAIIPTSAAIGLHFYPIWEAASVDEWLYNGGPYELIVLHFL  120
+            DGI E VSGSLL    +    +          F    +    DEWLYNGGPYELIVLHFL
+Sbjct  61   DGILELVSGSLLMETILSLVPLFLLLRRSDCTFTQFGKLHLFDEWLYNGGPYELIVLHFL  120
+
+Query  121  LGVACYMGREWELSFRLGMRPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+            L VACYMGREWELSFRLGM PWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF
+Sbjct  121  LSVACYMGREWELSFRLGMCPWIAVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTF  180
+
+Query  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYRFG  240
+            NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGY+FG
+Sbjct  181  NFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLIRETTENESANEGYKFG  240
+
+Query  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+            QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF
+Sbjct  241  QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLAAWPVVGIWFTALGISTMAFNLNGF  300
+
+Query  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+            NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG
+Sbjct  301  NFNQSVVDSQGRVINTWADIINRANLGMEVMHERNAHNFPLDLAALEVPSLNG  353
+
+
+
+
+
+
+
+		
+
+
